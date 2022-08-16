@@ -1,0 +1,256 @@
+{exp:channel:entries channel="homepage" limit="1" orderby="entry_date" sort="desc" dynamic="no" disable="categories|category_fields|member_data|pagination"}
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/WebPage">
+  <head>
+    {embed="site/_meta"}
+  </head>
+  <!-- START BODY -->
+  <body>
+  	<!-- You can add class="boxed" just below to #page -->
+  	<div id="page">
+	  	<!-- START HEADER -->
+	  	<header id="header">
+		  	<div class="container">
+				<img src="{images}/logo.png" alt="{site_name}" class="img-responsive center-block mt-lg">
+			  	<nav id="navigation">
+				  	<ul>
+					  	{if event_content}<li><a href="#event">Event</a></li>{/if}
+						{if gallery}<li><a href="#gallery">Gallery</a></li>{/if}
+					  	{if about}<li><a href="#jason">Jason</a></li>{/if}
+						{if sponsors}<li><a href="#sponsors">Sponsors</a></li>{/if}
+					  	<li><a href="#contact">Contact</a></li>
+					  	{if facebook_link}<li><a href="{facebook_link}" target="_blank"><span class="icon-facebook"></span></a></li>{/if}
+				  	</ul>
+			  	</nav>
+		  	</div>
+		  	<div id="background" class="big rev_slider">
+				<ul>
+					{sliders}
+					<li data-transition="slideleft" data-slotamount="1">
+						<img src="{sliders:image:resized}" alt="{if sliders:title}{sliders:title}{if:else}{site_name}{/if}">
+					</li>
+					{/sliders}
+				</ul>
+		  	</div>
+	  	</header>
+	  	<!-- END HEADER -->
+	  	
+	  	<!-- START MAIN CONTAINER -->
+	  	<div id="main-container" class="pt-sm">
+			<section id="donate" class="container text-center mb-lg">
+				<a href="{donate}" target="_blank" class="btn btn-lg btn-default"><i class="fa fa-usd"></i> Donate Now!</a>
+			</section>
+			
+			{if event_content}
+	  		<!-- START CONTAINER -->
+			<a id="event"></a>
+		  	<section id="container" class="container">
+		  		<!-- TITLE -->
+	  			<div class="heading page-title animate_left_right">
+			  		<h1>{title}</h1>
+			  		<hr>
+	  			</div>
+	  			<div class="row">
+		  			<div class="col-md-8">
+						<div class="post-content">
+							{event_content}
+						</div>
+		  			</div>
+		  			<div class="col-md-4">
+						{event_info}
+			  			<div class="event-card center animate_right_left">
+							<h2>When Is It ?</h2>
+							<div id="timer">
+				                <div id="days" class="timer_box"></div>
+				                <div id="hours" class="timer_box"></div>
+				                <div id="minutes" class="timer_box"></div>
+				                <div id="seconds" class="timer_box"></div>
+							</div>
+							<p><span class="icon icon-calendar"></span> {event_info:date format="%F %d, %Y at %g%a"}</p>
+							<hr>
+							<h2>Where ?</h2>
+							<p><span class="icon icon-location"></span> {event_info:location}</p>
+							<p>{event_info:address}</p>
+							<div id="mapEvent"></div>
+							<hr>
+							<div class="center">
+								<a href="#contact" class="btn btn-default"><i class="icon-mail"></i> Got a Question ?</a>
+							</div>
+			  			</div>
+						{/event_info}
+		  			</div>
+	  			</div>
+		  	</section>
+	  		<!-- END CONTAINER -->
+			{/if}
+			
+			{if gallery}
+	  		<!-- START GALLERY -->
+		  	<section id="gallery">
+		  		<div class="container">
+		  			<!-- HEADLINE -->
+		  			<div class="heading animate_left_right">
+				  		<h1>Gallery</h1>
+				  		<hr>
+		  			</div>
+		  		</div>
+		  		<div id="gallery-slider" class="flexslider">
+	                <ul class="slides">
+						{gallery}
+	                    <li>
+	                    	<div class="gallery-item">
+					    		<a href="{gallery:image}" data-fancybox-group="group1" class="fancybox">
+									<span>{gallery:title}<span>
+						    		<img src="{gallery:image:resized}" width="300" height="200" alt="{gallery:title}">
+					    		</a>
+				    		</div>
+	                    </li>
+						<!-- END SLIDE -->
+						{/gallery}
+	                </ul>
+				</div>
+		  	</section>
+	  		<!-- END GALLERY -->
+			{/if}
+			
+			{if about}
+	  		<!-- START CONTAINER -->
+			<a id="jason"></a>
+		  	<section id="container" class="container">
+		  		<!-- TITLE -->
+	  			<div class="heading page-title animate_right_left">
+			  		<h1>About Jason</h1>
+			  		<hr>
+	  			</div>
+	  			<!-- CONTENT -->
+			  	{about}
+		  	</section>
+	  		<!-- END CONTAINER -->
+			{/if}
+			
+			{if sponsors}
+			<a id="sponsors"></a>
+	  		<!-- START SPONSORS -->
+		  	<section id="sponsors">
+		  		<div class="container">
+		  			<!-- HEADLINE -->
+		  			<div class="heading">
+					  	<h1>Sponsors</h1>
+					  	<hr>
+		  			</div>
+		  		</div>
+		  		<div class="colored-container">
+		  			<div class="container center">
+						{sponsors}
+			  			<!-- A SPONSOR -->
+			  			<a href="{sponsors:link}" target="_blank" class="sponsor">
+				  			<img src="{sponsors:image:resized}" alt="{sponsors:name}">
+			  			</a>
+						{/sponsors}
+		  			</div>
+		  		</div>
+		  	</section>
+	  		<!-- END SPONSORS -->
+			{/if}
+			
+			<!-- START CONTAINER -->
+			<a id="contact"></a>
+		  	<section id="container" class="container">
+		  		<!-- TITLE -->
+	  			<div class="heading page-title animate_right_left">
+			  		<h1>Contact</h1>
+			  		<hr>
+	  			</div>
+			  	<div class="row">	
+					<div id="contact-container" class="col-md-12 animate_right_left">
+						<!-- CONTACT FORM -->
+						{embed="site/_contact_form"}
+					</div>
+				</div>
+		  	</section>
+	  		<!-- END CONTAINER -->
+	  	</div>
+	  	<!-- END MAIN CONTAINER -->
+	  	
+	  	{embed="site/_footer"}
+  	</div>
+	
+	<!-- PAGE LOADING-->
+	<div id="loader"></div>
+
+	<script src="http://code.jquery.com/jquery.min.js"></script>
+	{event_info}
+	<!-- ONLY FOR THE EVENT SINGLE PAGE : MAP SCRIPT -->
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&key=AIzaSyChBfIJMIDJ8gUV57D7ZW7DcvVSFMFGZYI"></script>
+    <script>
+		function initialize() {
+		  var myLatlng = new google.maps.LatLng({event_info:coordinates});
+		  var mapOptions = {
+		    zoom: 15,
+		    center: myLatlng
+		  }
+		  var map = new google.maps.Map(document.getElementById('mapEvent'), mapOptions);
+		
+		  var marker = new google.maps.Marker({
+		      position: myLatlng,
+		      map: map,
+		      title: '{event_info:location}'
+		  });
+		}
+		
+		google.maps.event.addDomListener(window, 'load', initialize);
+		
+	</script>
+    <!-- END -->
+    <!-- ONLY FOR THE EVENT SINGLE PAGE : COUNTER SCRIPT -->
+    <script>
+	    /**
+	    * Set your date here  (YEAR, MONTH (0 for January/11 for December), DAY, HOUR, MINUTE, SECOND)
+	    * according to the GMT+0 Timezone
+	    **/
+		<?php $m = "{event_info:date format="%m"}";
+		$m--; ?>
+	    var launch = new Date({event_info:date format="%Y"}, <?=$m?>, {event_info:date format="%d, %h, %i"});
+	    /**
+	    * The script
+	    **/
+	    var days = $('#days');
+	    var hours = $('#hours');
+	    var minutes = $('#minutes');
+	    var seconds = $('#seconds');
+	    setDate();
+	    function setDate(){
+	        var now = new Date();
+	        if( launch < now ){
+	            days.html('<h2>0</h2><p>Day</p>');
+	            hours.html('<h2>0</h2><p>Hour</p>');
+	            minutes.html('<h2>0</h2><p>Minute</p>');
+	            seconds.html('<h2>0</h2><p>Second</p>');
+	        }
+	        else{
+	            var s = (launch.getTime() - now.getTime())/1000;
+	            var d = Math.floor(s/86400);
+	            days.html('<h1>'+d+'</h1><p>Day'+(d>1?'s':''),'</p>');
+	            s -= d*86400;
+	
+	            var h = Math.floor(s/3600);
+	            hours.html('<h1>'+h+'</h1><p>Hour'+(h>1?'s':''),'</p>');
+	            s -= h*3600;
+	
+	            var m = Math.floor(s/60);
+	            minutes.html('<h1>'+m+'</h1><p>Minute'+(m>1?'s':''),'</p>');
+	
+	            s = Math.floor(s-m*60);
+	            seconds.html('<h1>'+s+'</h1><p>Second'+(s>1?'s':''),'</p>');
+	            setTimeout(setDate, 1000);
+	        }
+	    }
+    </script>
+    <!-- END -->
+	{/event_info}
+
+    {embed="site/_footer_js"}
+  </body>
+  <!-- END BODY -->
+</html>
+{/exp:channel:entries}
