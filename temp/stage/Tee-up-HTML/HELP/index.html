@@ -1,0 +1,410 @@
+<!doctype html>
+<!--[if IE 6 ]>
+<html lang="en-us" class="ie6"> <![endif]-->
+<!--[if IE 7 ]>
+<html lang="en-us" class="ie7"> <![endif]-->
+<!--[if IE 8 ]>
+<html lang="en-us" class="ie8"> <![endif]-->
+<!--[if (gt IE 7)|!(IE)]><!-->
+<html lang="en-us"><!--<![endif]-->
+<head>
+    <meta charset="utf-8">
+
+    <title>Tee Up - Documentation</title>
+
+    <meta name="description"
+          content="Thank you for purchasing my theme. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form here. Thanks so much!">
+    <meta name="author" content="2F">
+    <meta name="copyright" content="2F">
+    <meta name="generator" content="Documenter v1.6 http://rxa.li/documenter">
+    <meta name="date" content="2013-04-24T00:00:00+02:00">
+
+    <link rel="stylesheet" href="css/documenter_style.css" media="all">
+    <link rel="stylesheet" href="css/bootstrap.css" media="all">
+
+    <script src="js/jquery.1.6.4.js"></script>
+
+    <script src="js/jquery.scrollTo-1.4.2-min.js"></script>
+    <script src="js/jquery.easing.js"></script>
+
+    <link rel="stylesheet" href="css/shDocumenter.css" media="screen">
+    <script src="js/shCore.js"></script>
+    <script src="js/shBrushCss.js"></script>
+    <script src="js/shBrushJScript.js"></script>
+    <script src="js/shBrushPhp.js"></script>
+    <script>SyntaxHighlighter.defaults['toolbar'] = false;
+    SyntaxHighlighter.all();</script>
+
+    <script>document.createElement('section');
+    var duration = 500, easing = 'swing';</script>
+    <script src="js/script.js"></script>
+
+
+
+</head>
+<body>
+<div id="documenter_sidebar">
+    <a href="#documenter_cover" id="documenter_logo"></a>
+    <ol id="documenter_nav">
+        <li><a class="current" href="#start">Start</a></li>
+        <li><a href="#setup">Set Up</a></li>
+        <li><a href="#fonts">Fonts</a></li>
+        <li><a href="#icons">Icons & Bootstrap</a></li>
+        <li><a href="#header">Header</a></li>
+        <li><a href="#background">Page Background</a></li>
+        <li><a href="#home">Home Page</a></li>
+        <li><a href="#events">Events Page</a></li>
+        <li><a href="#gallery">Gallery Page</a></li>
+        <li><a href="#contact">Contact Page</a></li>
+        <li><a href="#members">Member's Area</a></li>
+        <li><a href="#new">New Page</a></li>
+        <li><a href="#footer">Footer</a></li>
+        <li><a href="#css">CSS</a></li>
+        <li><a href="#js">Javascript</a></li>
+        <li><a href="#credits" title="Credits">Credits</a></li>
+        <li><a href="http://support.2f-design.fr/">Question ?</a></li>
+    </ol>
+    <div id="documenter_copyright">Copyright DoubleF<br>
+        made with the <a href="http://rxa.li/documenter">Documenter v2.0</a>
+    </div>
+</div>
+<div id="documenter_content">
+
+   <section id="start"><h1>Tee Up</h1>
+
+        <h2>Premium HTML5 Template</h2>
+        <hr>
+        <ul>
+            <li>Created: 02/01/2014</li>
+            <li>latest Update: 08/01/2014</li>
+            <li>By: 2F</li>
+        </ul>
+
+        <p class="alert alert-info">Thank you for purchasing my theme. If you have any questions that are beyond the scope of this help file, please feel free to email via my user page contact form:
+            <a href="http://themeforest.net/user/doubleF/">themeforest.net/user/doubleF</a></p>
+
+    </section>   
+
+    <section id="setup">
+        <h1>Set Up</h1>
+        <hr>
+        <p>Welcome, this is a <h3>HTML template (not Wordpress)</h3> so all the files are fully operational to be used now. Open the folder with a text editor and replace our content with your content, you'll find out here all the things that you need to know to build your perfect website.</p>
+            <h3>Pack Content</h3>
+            <ul>
+                <li><strong>HTML</strong>: Template files</li>
+                <li><strong>ASSETS</strong>: Some Resources Used in this template which could be useful for the development</li>
+                <li><strong>DOCUMENTATION</strong>: Help file (where you are ^^)</li>
+            </ul>
+            <h3>Watch out to the PHP</h3>
+            <p>Some features needs PHP, if you want to use the contact form you need PHP (see #ContactPage section).</p>
+            <h3>Boxed Layout</h3>
+            <p>You can enable the boxed layout on any page by adding the class <strong>Boxed</strong> to the DIV #page:</p>
+<pre>
+&lt;div id="page"&gt; -> &lt;div id="page" class="boxed"&gt;
+</pre>
+            <h3>Animations</h3>
+            <p>There is 5 animations (classes) for the content in this template</p>
+            <ul>
+	            <li><strong>animate_top_bottom</strong>: Animation from top to bottom.</li>
+	            <li><strong>animate_bottom_top</strong>: Animation from bottom to top.</li>
+	            <li><strong>animate_left_right</strong>: Animation from left to right.</li>
+	            <li><strong>animate_right_left</strong>: Animation from top to bottom.</li>
+	            <li><strong>animate_fade</strong>: Animation fade In.</li>
+            </ul>
+            <p>You can add one of those classes to any HTML element, it'll be animated by CSS3. You can customize the animations into style.css at the end there is a section for the animations. <strong>If you want to remove the animations, just delete the ANIMATIONS section in CUSTOM.JS.</strong>Then, note than under 992px of screen width, the animations are disabled </p>
+            <h3>Some CSS Class Really Useful</h3>
+            <ul>
+	            <li><strong>highlight</strong>: highlight a text with a yellow background (I advice you to use it with a span tag).</li>
+	            <li><strong>dropcap</strong>: Just a dropcap letter at the beginning of a paragraph.</li>
+	            <li><strong>center</strong>: center the text inside a container (like a p tag)</li>
+            </ul>
+            You can also use all the Bootstrap's class
+            <h3>Pattern for the background of some sections</h3>
+            <p>Same as for the footer, <a href="#footer">see Footer section > Background</a> </p>
+    </section>   
+
+    <section id="fonts">
+        <h1>Fonts</h1>
+        <hr>
+        <p>
+	        <p>This template use <strong>"PlayFair Display"</strong> and <strong>"Open Sans"</strong>. But if you want to change the fonts:</p>
+			<ul>
+				<li>Go to google fonts website, then choose your font, go to “quick use” and copy this line (ctrl + c),</li>
+				<li>past this line in the header of the template (delete the previous).</li>
+				<li>Go to style.css (line 65+). All the elements with font-family are combined at the beginning of the file, just replace the previous font with the new one.</li>
+			</ul>
+        </p>
+    </section>   
+
+    <section id="icons">
+        <h1>Icons & Bootstrap</h1>
+        <hr>
+        <h3>Icons</h3>
+        <p>About the icons we're using an icon font, You can see the icons library there -> <strong>ASSETS / ICONS / DEMO.HTML</strong>
+This file is really important, you should keep it open in an other tab of your browser during the development. In deed, you'll find out there a css class for each icon. Then when you found that class, just create a html tage like this -> <code>&lt;i class="icon-yourIconName" &gt; &lt;/i&gt;</code>. An icon gonna appear ! Note that you can use it anywhere in your html code, also and especially in the buttons.</p>
+        <h3>Bootstrap</h3>
+        <p>Bootstrap is included with this template. That mean that you can use any functionality, components from Bootstrap(for a size optimization, all the js plugins from bootstrap aren't included with this template; only alert.js and dropdown.js). Please note that some of them are designed, changed for the design of this template. All changes are in style.css, the Bootstrap file is untouched</p><br/>
+        <a href="http://getbootstrap.com/">Bootstrap Documentation</a>
+    </section>   
+
+    <section id="header">
+        <h1>Header (logo, navigation)</h1>
+        <hr>
+        <p>The header of this template is the part upper with the logo, menu and background image</p>
+        <h3>Logo</h3>
+        <p>Your logo should be a <strong>PNG</strong> image file. Just call it <strong>"logo"</strong> and copy it in the image folder of the template. Moreover, you can change the logo size which is by default 300 px in style.css (header part -> #logo)</p>
+        <h3>Menu</h3>
+        <p>The menus are managed with the HTML. So if you want to edit your menu, please do the change in the other files too. The menu is a big list in the top of the file (id="navigation"). <strong>Watch out ! In the Member's Area files, which are in an external folder, you need to change the path of the link, just add "../" before a new page created in the main template.</strong></p>
+        <h4>Add item to your menu</h4>
+        <p>Just copy the following line (set the link and the name of the page):</p>
+        <pre>
+&lt;li "&gt;&lt;a href="your link"&gt;Page Name&lt;/a&gt;
+        </pre>
+        <h4>Dropdown Menu</h4>
+        <pre>
+&lt;li class="with-submenu" &gt;
+    &lt;a href="link.html"&gt;Name&lt;/a&gt;
+    &lt;ul class="submenu"&gt;
+      &lt;li&gt;&lt;a href="link"&gt;Sub item 1&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href="link"&gt;Sub item 2&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+&lt;/li&gt;
+    </pre>
+    </section>   
+
+    <section id="background">
+        <h1>Pages background (Header)</h1>
+        <hr>
+        <p>You may notice that there is a independent header background for each  page. For the home page it's a slider (see "Home" section below). About the others, you can change it directly in the HTML part of each page file. The html tag is below the menu, it looks like:</p>
+        <pre>
+&lt;!-- BACKGROUND HEADER --&gt;
+&lt;div id="background" class="small" style="background-image: url('images/slider/1.jpg');"&gt;&lt;/div&gt;
+        </pre>
+        <p>So you just have to add the path to your background image (by default it use the images used for the slider), you can also replace the background-image property by the background-color property.</p>
+    </section>   
+
+    <section id="home">
+        <h1>Home</h1>
+        <hr>
+        <p>The home page is the most important page of the template. So we created it in the way to display the most elements about your Golf in an elegant way. Therefore, it's devided in differents sections and with a slider to display some awesome pictures .</p>
+        <h3>Slider</h3>
+        <p>There is a folder for the images caller "slider" into the "images" folder. You can add new slider within the div#background. the structure should like:</p>
+<pre>
+&lt;li data-transition="slideleft" data-slotamount="1"&gt;
+	&lt;img src="images/slider/2.jpg" alt="Image Slide"&gt;
+	&lt;!-- TEXT CAPTION (CAN BE DELETED) --&gt;
+	&lt;div class="caption lfr"  data-x="0" data-speed="300" data-start="1000">A caption to describe your photo.&lt;/div&gt;
+&lt;/li&gt;
+</pre>
+        <h3>Sections</h3>
+        <p>All the sections are some components of this page so you can manage them as you like by moving them or by deleting them. They're commented within the html code.</p>
+    </section>   
+
+    <section id="events">
+        <h1>Events Page</h1>
+        <hr>
+        <p>All the structure is commented in the HTML code (same for the blog) for the style, there is section in style.css</p>
+        <h3>Single Event</h3>
+        <p>You have to know 2 things about the single event page which are really important: the timer and the map:</p>
+        <h4>The Timer</h4>
+        <p>To configure your timer you just need a date, go to the end of the event page file, all is explained in the comments.</p>
+        <h4>Google Map</h4>
+        <p>The map is initialized in single-event.html(php). For the map we need the position of your business. To find it go to: <a href="http://itouchmap.com/latlong.html">Itouchmap</a>. A simple click from the site map on the location of your business will give you the longitude and latitude (for example: 38.941182, -46.625977), copy the result in the bottom of the page "var myLatlng = new google.maps.LatLng(48.858000, 2.294600);" . You're free to edit the settings of the map with the Google API.
+        <strong>The javascript code which enable the map and where you have to set your location is into the footer where all the js files are included.</strong></p>
+    </section>   
+
+    <section id="gallery">
+        <h1>Gallery Page</h1>
+        <hr>
+        <p>You can see the gallery in the home page and in the gallery page. The structure is the same. You can add there any photos, you should put them into the "gallery" folder which is within the "images" folder.</p>
+        <h3>Add new item</h3>
+<pre>
+&lt;!-- ITEM GALLERY --&gt;
+&lt;div class="gallery-item item"&gt;
+	&lt;a href="images/gallery/6.jpg" data-fancybox-group="group1" class="fancybox"&gt;
+		&lt;span&gt; Image Title &lt;/span&gt;
+		&lt;img src="images/gallery/6.jpg" width="300" height="200" alt="Image gallery"&gt;
+	&lt;/a&gt;
+&lt;/div&gt;
+&lt;!-- END ITEM --&gt;
+</pre>
+        <h3>Filtering</h3>
+        <p>The filter buttons works with classes to the HTM gallery item DIV. Each button call a class, so you have to add this called class to all the item gallery which are inside it. This is pretty hard to understand, so I recommand you to take a look to the plugin documentation about that -> <a href="http://isotope.metafizzy.co/beta/filtering.html">Isotope Documentation</a></p>
+    </section>
+
+    <section id="contact">
+        <h1>Contact Page</h1>
+        <hr>
+        <p>Maybe you've seen, there is 2 contact files: contact.HTML is just for the HTML template the form isn't working at all whereas index.PHP contained the sending code of the email. If you'll delete the form don't use it.</p>
+        <h3>Form</h3>
+        <p>To use the form please, delete contact.html and keep contact.php. So go to the top of the file you'll see a variable called "$yourEmail", fill it. It'll works now.</p>
+        <strong>Issues:</strong><br/>
+
+		<p>You do not receive alerts or error sends after sending:</p>
+		<ul>
+		<li>Check if you're on contact.php and not contact.html, then delete contact.html from your server</li>
+		</ul>
+		<p>You see a warning of success but you receive nothing:</p>
+		<ul>
+		<li>Check if your provider accepted the sending of emails</li>
+		<li>Check if your email is correctly set in contact.php line 3</li>
+		<li>Check your mailbox again...</li>
+		</ul>
+        <h3>Google Map</h3>
+        <p>The map is initialized in contact.html(php). For the map we need the position of your business. To find it go to: <a href="http://itouchmap.com/latlong.html">Itouchmap</a>. A simple click from the site map on the location of your business will give you the longitude and latitude (for example: 38.941182, -46.625977), copy the result in the bottom of the page "var myLatlng = new google.maps.LatLng(48.858000, 2.294600);" . You're free to edit the settings of the map with the Google API.
+        <strong>The javascript code which enable the map and where you have to set your location is into the footer where all the js files are included.</strong></p>
+    </section>
+	
+    <section id="members">
+        <h1>Member's Area</h1>
+        <hr>
+        <p>This theme include a member's area, it's a kind of back office for your member where we created some template pages to give you a structure. if you have idea to improve it, please contact us.
+So all the files of this back office are in a special folder "members", you can create there your pages. But watch out, because the other part of the template is in an other folder all the paths are changed and you have to keep those changes ("../" in the URLs).</p>
+    </section>
+    
+    <section id="new">
+        <h1>New Page</h1>
+        <hr>
+        <h3>Create a New Page</h3>
+        <p>Please, follows these steps</p>
+        <ol>
+            <li>Open a new ".html" file in your editor</li>
+            <li>Copy the containing of <strong>new-page.html</strong></li>
+            <li>Replace all the "Page name" or "title here" with your page name</li>
+            <li>Write your content and don't forget to try to add elements such as: buttons, columns, h3....</li>
+            <li>Open each pages of your website</li>
+            <li>Update your menu with this new page (see: "header" section "menu")</li>
+         </ol>
+    </section>
+
+    <section id="footer">
+        <h1>Footer</h1>
+        <hr>
+        <p>The footer of this template is the part lower with the widgets and the copyright text.</p>
+        <h3>Widgets</h3>
+        <p>In the template, we have included examples widgets to show you what you can do. So you can modify them if you like them or create new ones. If you keep the same HTML structure with the classes, it's easy, they're full of predefined styles for many elements.</p>
+        <pre>
+&lt;div class="col-md-3 widget"&gt;
+  	&lt;h3&gt; Widget Title &lt;/h3&gt;
+	...
+	HTML CONTENT (such as list, paragraph...)
+	...
+&lt;/div&gt;
+        </pre>
+        <h3>Background</h3>
+        <p>The background of the footer is a pattern called "footer_bg" in the "images" folder (footer_bg@2X is the one used for the high resolution screen). If you want to change it:</p>
+        <ol>
+	        <li>Go to <a href="http://subtlepatterns.com/">Subtle Patterns</a></li>
+	        <li>Choose and download your favorite</li>
+	        <li>Copy/paste both images files (normal and @2x) and rename them into "footer_bg"</li>
+	        <li>Sometimes you have also to change the background size property in style.css</li>
+        </ol>
+    </section>
+
+    <section id="css">
+        <h1>Stylesheet</h1>
+        <hr>
+        <p>About the CSS, we're using Bootstrap which is within the "CSS" folder and Style.css where ALL the css used in this template is. This file is really large, so it's really well organized, here it's the structure:</p>
+        <pre>        
+MAIN STYLE
+    
+HEADER
+
+RATES	
+
+GALLERY
+
+STAFF
+
+BLOG
+
+EVENTS
+
+TESTIMONIALS
+
+SPONSORS
+
+FAQ
+
+CONTACT
+
+MEMBERS AREA
+
+FOOTER
+
+RESPONSIVE
+
+PLUGINS
+
+ANIMATIONS
+        </pre>
+    </section>
+
+    <section id="js">
+        <h1>Javascript</h1>
+        <hr>
+        <p>All the Javascript files are within the "js" folder. The main important file is "custom.js". Inside that one, all the plugins are called with their options, you'll find other jquery snippets used for this template. here it's the structure :</p>
+        <pre>
+//LOADER
+...
+//ANIMATIONS
+...
+//SUBMENU
+...
+//LANGUAGES
+...
+//RESPONSIVE MENU
+...
+//FANCYOX
+...
+//SLIDER
+...
+//CAROUSELS
+...
+//BOOTSTRAP ALERTS FOR FORM
+...
+//GALLERY
+...
+//EVENTS
+...
+//MEMBERS
+...
+//DROPDOWN TOGGLE
+...
+//CONTACT
+...
+//SIGN IN
+...
+//SEARCH FORM
+...
+        </pre>
+    </section>
+
+    <section id="credits">
+        <h1>Credits</h1>
+        <hr>
+        <p>I've used the following images, icons, scripts or other files as listed (BIG thanks to them).</p>
+        <ul>
+            <li><a href="http://developers.google.com/" >Google API</a>: fonts & map.</li>
+            <li><a href="http://jquery.com/">Jquery</a>: Javascript library.</li>
+            <li><a href="http://github.hubspot.com/pace/docs/welcome/">Pace</a>: Page Loading (progress bar).</li>
+            <li><a href="http://fancybox.net/">FancyBox</a>: Lightbox.</li>
+            <li><a href="http://subtlepatterns.com/">Subtlepatterns</a>: Footer pattern.</li>
+            <li><a href="http://isotope.metafizzy.co/beta/">Isotope (premium license)</a>: Layout.</li>
+            <li><a href="http://flexslider.woothemes.com/">FlexSlider</a>: Carousel.</li>
+            <li><a href="http://getbootstrap.com/" >Bootstrap</a>: Some Plugins (toolitips, tabs...).</li>
+            <li><a href="http://icomoon.io/app/#browse" >Keyamoon</a>: Font for the icons.</li>
+            <li><a href="http://imakewebthings.com/jquery-waypoints/">WayPoint</a>: Triggers CSS3 animations.</li>
+            <li><a href="http://codecanyon.net/item/slider-revolution-responsive-wordpress-plugin/2751380?ref=doubleF" >Revolution SLider</a>: Slider (premium license).</li>
+        <hr>
+        
+        <p>Once again, thank you so much for purchasing this theme. As I said at the beginning, I'd be glad to help you if you have any questions relating to this theme. No guarantees, but I'll do my best to assist. If you have a more general question relating to the themes on ThemeForest, you might consider visiting the forums and asking your question in the "Item Discussion" section.</p> 
+
+        <p><strong>If you think, that this documentation or this theme are not enough complete, tell me please ! :)</strong></p>
+
+    </section>
+   
+
+</div>
+</body>
+</html>

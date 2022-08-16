@@ -1,0 +1,392 @@
+$svg-gradient-shim-threshold: 	100;
+
+@import "compass/css3/";
+@import "compass/css3/user-interface";
+
+$addon:							'freeform';
+$default-border-radius:			3px;
+
+$main_text_color:				#5f6c74;
+$darker_text_color:				#666;
+
+$outer_table_border_color:		#d0d7df;
+
+
+@mixin main_gradient ($top_color, $bottom_color, $hover: true, $border: true)
+{
+	@include			box-shadow(inset 0px 1px #cfd8dc !important);
+	background-color:	none;
+	@include 			background-image(linear-gradient(top, $top_color, $bottom_color) !important);
+	color:				#fff !important;
+	text-shadow: 		0 1px 0 #777 !important;
+
+	@if $border == true
+	{
+		border:				1px solid $bottom_color !important;
+	}
+
+	@if $hover == true
+	{
+		&:hover {
+			@include 	background-image(
+				linear-gradient(
+					top,
+					darken($top_color, 10%),
+					darken($bottom_color, 10%)
+				)
+				!important
+			);
+		}
+	}
+}
+
+// button gradient
+@mixin button_gradient {
+	@include			main_gradient(#f83964, #d30c4b);
+	color:				#fff;
+	padding:			9px 13px 7px;
+}
+
+/*	overrides
+	all of these are going to be prefixed with #mainContent so
+	css will take it as precedence over anything else
+*/
+
+/*
+jquery ui dialog overrides
+*/
+
+.ui-dialog {
+	.ui-dialog-titlebar {
+		@include			main_gradient(#607983, #304249, false);
+		font-weight:		normal;
+		text-shadow: 		-1px -1px 0 #333;
+		@include			border-radius(3px !important);
+	}
+
+	.submit {
+		@include			button_gradient();
+	}
+
+	.ui-dialog-buttonpane {
+		padding:			0;
+	}
+}
+
+#go_pro_button {
+	$weird_brown_color:	lighten(#603e0f, 5%);
+	display:			inline-block;
+	@include			border-radius(5px);
+	padding:			6px 10px 5px;
+	margin-top:			-10px;
+	color:				$weird_brown_color;
+	@include			box-shadow(0px 1px 1px rgba(0,0,0,0.2), inset 0px 1px rgba(255,255,255,0.3));
+	@include			background-image(linear-gradient(top, #f9b94d, #ef9528));
+	text-shadow: 		0 1px 0 #bbb;
+
+	&:hover {
+		text-decoration:	none;
+	}
+}
+
+#mainContent,
+.solspace_ui_wrapper
+{
+	hr {
+		border-style:	none;
+		border-bottom:	1px solid $outer_table_border_color;
+		margin:			10px 0;
+	}
+
+	textarea,
+	input[type="text"],
+	input[type="email"],
+	input[type="url"],
+	input[type="number"],
+	input[type="password"] {
+		@include			box-shadow(inset 1px 1px 8px 0px rgba(0, 0, 0, 0.1) !important);
+		border-color:		#d1d1d1 !important;
+		@include			border-radius(3px !important);
+	}
+
+	.chzn-container,
+	.chzn-container *,
+	.chosen_field_list,
+	.field_list,
+	.chosen_field_list .field_tag,
+	.field_list .field_tag,
+	.#{$addon}_ui_button,
+	.pill,
+	.row_button .first,
+	.row_button .second,
+	.row_button .third {
+		border-color:		#d1d1d1;
+	}
+
+	/* version number */
+	.pageContents {
+		#solspace_version_number {
+			margin: 		-28px 0 0 -300px;
+			font-size:		13px;
+			font-weight:	normal;
+
+			/* I know i know.*/
+			strong {
+				font-weight:	normal;
+			}
+		}
+
+		border:				1px solid #d0d7df !important;
+		@include			border-radius(0 0 5px 5px !important);
+		background-color:	#ecf1f4;
+		@include			box-shadow(none !important);
+	}
+
+	/* header */
+
+	.heading {
+		@include			border-radius(5px 5px 0 0 !important);
+		background:			none;
+		@include			main_gradient(#a0b2bb, #76878f, false);
+		margin:				0 !important;
+
+		h2 {
+			background:		none;
+			padding:		10px 15px;
+			border:			none !important;
+			text-shadow:	0 1px 0 #777 !important;
+		}
+	}
+
+	/* navigation menu */
+
+	.tab_menu {
+		/*NSM override override*/
+		border:				none !important;
+		background:			none;
+		@include			background-image(linear-gradient(top, #b0c0c8, #93a3aa) !important);
+		height:				auto;
+		padding:			6px 9px 0;
+
+		li {
+			margin:				0 5px 8px;
+			border:				none;
+			@include			border-radius(5px);
+			background:			none;
+			@include			main_gradient(#99a9b1, #80949e, true, false);
+			@include			box-shadow(inset 1px 1px 1px rgba(0,0,0,0.2), 0px 1px rgba(255,255,255,0.3) !important);
+			padding-bottom:		3px !important;
+
+			&.current {
+				background:			none;
+				@include			background-image(linear-gradient(top, #738790, #586b74) !important);
+				margin:				0 5px 8px;
+				border:				none;
+
+				a {
+					color:				#fff;
+				}
+
+			}
+
+			//override
+			&:first-child.current {
+				margin-left:		5px;
+			}
+
+			a {
+				text-shadow: 		0 1px 0 #666;
+				font-weight:		normal;
+				/*nsm override override*/
+				@include			box-shadow(none !important);
+				background:			none !important;
+				margin:				0 !important;
+				padding:			7px 12px 4px 12px !important;
+				font-size:			13px !important;
+				text-transform:		none !important;
+			}
+
+		}
+	}
+
+	/* right nav submit */
+
+	.rightNav {
+		.submit {
+			@include		button_gradient();
+		}
+
+		/*NSM override override*/
+		.button a,
+		.button a:visited,
+		.button a:link,
+		.button a:active {
+			margin-left:	0 !important;
+		}
+	}
+
+	/* general submit */
+
+	.submit {
+		background:		none;
+		@include		button_gradient();
+		line-height: 	13px !important;
+	}
+
+	/* NSM override override*/
+	.button {
+		a:hover,
+		a:link:hover,
+		a:visited:hover {
+			top:		0 !important;
+		}
+	}
+
+	.solspace_ui_wrapper {
+		.form_label,
+		.list_labels {
+			a {
+				color:		$main_text_color;
+			}
+		}
+
+		.tooltip {
+			@include			border-radius(5px);
+			@include			opacity(0.8);
+			background:			#000;
+			border:				none;
+			color:				#fff;
+			margin-right:		-115px;
+
+			&:after {
+				border-top-color:	#000;
+				left:			50%;
+			}
+			&:before {
+				border-top-color:	#000;
+				left:			50%;
+			}
+		}
+
+		fieldset.search_fieldset .submit,
+		.right_side_filter .submit {
+			margin-top:		0;
+			padding:		5px 13px;
+			cursor:			pointer;
+		}
+
+		.right_side_filter {
+			top:			60px;
+		}
+	}
+
+	.subtext,
+	.small_label {
+		color:		#b6b6b6;
+	}
+
+	.sub_box {
+		background-color:		#dae3e8;
+		@include				box-shadow(inset 0px 1px rgba(0,0,0,0.075), 0px 1px rgba(255,255,255,0.75));
+		border-color:			#d5dfe4;
+		padding:				10px 10px 0 10px;
+
+		p, h1, h2, h3, h4 {
+			margin-bottom:		10px;
+		}
+
+		&.search_fieldset {
+			@include			box-shadow(0px 1px rgba(255,255,255,0.75));
+
+			legend {
+				background-color:	#fafafa;
+				padding:			3px 5px 2px;
+				border:				1px solid $outer_table_border_color;
+				@include			border-radius(3px);
+				@include			box-shadow(0px 1px rgba(0,0,0,0.1));
+			}
+		}
+	}
+}
+
+#fancybox-content .sub_box {
+	background-color:		#f4f6f6;
+}
+
+#edit_field_layout_holder
+{
+	.field_layout_head {
+		@include			main_gradient(#607983, #304249, false);
+		font-weight:		normal;
+		text-shadow: 		-1px -1px 0 #333;
+
+		h3 {
+			font-weight:		normal;
+		}
+	}
+}
+
+
+// -------------------------------------
+//	composer
+// -------------------------------------
+
+#composer_elements .header .#{$addon}_info_button {
+	margin-top:				4px;
+}
+
+#composer
+{
+	@include			box-shadow(inset 0px 1px 8px 0px rgba(0, 0, 0, 0.2));
+
+	background-color:	#fdfdfd;
+
+	table:first-child {
+		@include		box-shadow(0px 4px 7px -5px rgba(0, 0, 0, 0.3));
+
+		tr:first-child {
+			td {
+				&:first-child {
+					@include		border-top-left-radius(3px);
+				}
+				&:last-child {
+					@include		border-top-right-radius(3px);
+				}
+			}
+		}
+	}
+}
+
+
+#composer_side_bar > div .header {
+	padding:				9px;
+}
+
+#new_field_button {
+	margin-top: 			-2px;
+	margin-right: 			-2px;
+}
+
+#dynrec_editor,
+#hidden_field_editor
+{
+	h4 {
+		@include			main_gradient(#607983, #304249, false);
+		font-weight:		normal;
+		text-shadow: 		-1px -1px 0 #333;
+		@include			border-radius();
+		padding:			10px;
+	}
+}
+
+// -------------------------------------
+//	fancybox override
+// -------------------------------------
+
+/*#fancybox-content {
+		background-color:	#ecf1f4;
+		border-color:		#ecf1f4;
+}*/
+
+
+

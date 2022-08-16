@@ -1,0 +1,932 @@
+a:3:{s:4:"time";i:1548394462;s:3:"ttl";i:0;s:4:"data";a:4:{s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:1:{s:4:"feed";a:1:{i:0;a:6:{s:4:"data";s:105:"
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+			
+		
+
+	";s:7:"attribs";a:1:{s:36:"http://www.w3.org/XML/1998/namespace";a:1:{s:4:"lang";s:2:"en";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:8:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:8:"subtitle";a:1:{i:0;a:5:{s:4:"data";s:4:"Blog";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"text";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:2:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:0:"";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:4:"self";s:4:"type";s:20:"application/atom+xml";s:4:"href";s:49:"https://expressionengine.com/blog/rss-feed/cpnews";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2019-01-22T21:03:44+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"rights";a:1:{i:0;a:5:{s:4:"data";s:30:"Copyright (c) 2019, Kevin Cupp";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"generator";a:1:{i:0;a:5:{s:4:"data";s:16:"ExpressionEngine";s:7:"attribs";a:1:{s:0:"";a:2:{s:3:"uri";s:28:"http://expressionengine.com/";s:7:"version";s:5:"4.3.4";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:29:"https://expressionengine.com/";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"entry";a:10:{i:0;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:39:"5.1 brings Drag, Drop, and Bulk Uploads";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:71:"https://expressionengine.com/blog/5.1-brings-drag-drop-and-bulk-uploads";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:71:"https://expressionengine.com/blog/5.1-brings-drag-drop-and-bulk-uploads";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2019-01-22T20:14:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2019-01-22T21:03:44+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Kevin Cupp";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:23:"kevin.cupp@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:534:"
+				<p>ExpressionEngine 5.1 has been released and you can now drag and drop files directly onto any File field.</p>
+
+<figure><img src="https://expressionengine.com/asset/img/blog/ee51file.png" style="max-width: 781px"></figure>
+
+<p>This was a natural springboard into answering one of our most common requests: bulk upload to a Grid. You can drag a host of files onto the File Grid field and get a new row for each file. Easy peasy.</p>
+
+<figure><img src="https://expressionengine.com/asset/img/blog/ee51filegrid.gif"></figure>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 22 Jan 2019 20:14:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:524:"<p>ExpressionEngine 5.1 has been released and you can now drag and drop files directly onto any File field.</p>
+
+<figure><img src="https://expressionengine.com/asset/img/blog/ee51file.png" style="max-width: 781px"></figure>
+
+<p>This was a natural springboard into answering one of our most common requests: bulk upload to a Grid. You can drag a host of files onto the File Grid field and get a new row for each file. Easy peasy.</p>
+
+<figure><img src="https://expressionengine.com/asset/img/blog/ee51filegrid.gif"></figure>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:1;a:6:{s:4:"data";s:140:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:41:"Make upgrades easy with these simple tips";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:75:"https://expressionengine.com/blog/make-upgrades-easy-with-these-simple-tips";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:75:"https://expressionengine.com/blog/make-upgrades-easy-with-these-simple-tips";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-12-13T19:33:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-12-14T15:37:59+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:13:"James Mathias";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:26:"james.mathias@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:4:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:9:"Education";s:6:"scheme";s:52:"https://expressionengine.com/blog/category/education";s:5:"label";s:9:"Education";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:3;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:15:"Tips and Tricks";s:6:"scheme";s:58:"https://expressionengine.com/blog/category/tips-and-tricks";s:5:"label";s:15:"Tips and Tricks";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:5487:"
+				<figure><img src="https://expressionengine.com/asset/img/blog/upgrades-blog-news@2x.png" alt="ExpressionEngine 5 has arrived"></figure>
+
+<p>ExpressionEngine 5<sup id="fnref:1"><a href="#fn:1" class="footnote-ref">1</a></sup> is out and with that comes an upgrade! Upgrading from version 4 is simple. Just make sure <strong>all</strong> your third-party add-ons are up to date<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">2</a></sup>, and then use the 1-click updater<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a></sup>. Easy-peezy lemon-squeezy. Enjoy version 5!</p>
+
+<p>Version 3 is slightly more involved, but it&#8217;s really just a matter of moving some files and visiting a page on your website. We&#8217;ve <a href="https://docs.expressionengine.com/latest/installation/upgrade_from_3.x_4.x.html">documented</a> this for you, so you can&#8217;t go wrong.</p>
+
+<p>If you&#8217;re on version 2, your day is going to be a little more interesting.</p>
+
+<p>The first thing you need to determine is which third-party add-ons you are running. From that list you need to categorize the add-ons into groups in order to decide how to move them forward.</p>
+
+<p>Add-ons that;</p>
+
+<ul>
+<li>Have an ExpressionEngine 5 compatible version available.</li>
+<li>Can be replaced by native functionality.</li>
+<li>Need replacement, or rewriting. </li>
+<li>Can be removed completely.</li>
+</ul>
+
+<h2>Version 5 compatible add-ons</h2>
+
+<p>These are easy, just grab the new version of the add-on and have it ready to install.</p>
+
+<h2>Switch to native</h2>
+
+<p>There&#8217;s a little more work here, however in most cases these will be straightforward changes. And in some cases there are migration scripts to help you make the move; For example, moving from <a href="https://github.com/EllisLab/PlayaMatrixImporter" title="" rel="external">Playa &amp; Matrix to Relationships &amp; Grid</a>.</p>
+
+<h2>Replace, rewrite, or remove.</h2>
+
+<p>Replacing may require a migration path like moving to native as above, or some sort of manual data moving. Rewriting is a bigger job, and most of the time, unless the functionality is vital, it&#8217;s likely best to refactor the functionality. Removing is usually simple, but can have some gotchas if you don&#8217;t fully understand the add-on and what it does. You can always <a href="https://expressionengine.com/services">hire us</a> to help you with replacements, rewrites, and removals.</p>
+
+<p>Whichever route you take with this group of add-ons you&#8217;ll need to schedule a little extra time for the work.</p>
+
+<h2>Next Steps</h2>
+
+<p>After you&#8217;ve figured out all your add-ons you need to tackle the upgrade from 2 to 5. This is best done in smaller steps. I personally recommend the following steps.</p>
+
+<ol>
+<li><a href="https://docs.expressionengine.com/v2/installation/update.html">Upgrade to 2.11.9</a></li>
+<li><a href="https://docs.expressionengine.com/v3/installation/upgrade_from_2.x.html">Upgrade to 3.5.17</a></li>
+<li><a href="https://docs.expressionengine.com/latest/installation/upgrade_from_3.x_4.x.html">Upgrade to 5.0.1</a></li>
+</ol>
+
+<p>After each step, I suggest doing a quick check of your site to make sure everything is working as expected. Then proceed to the next upgrade step. It&#8217;s much easier to debug and fix something that went wrong right away, rather than discovering it later when you&#8217;ve upgraded all the way.</p>
+
+<p><strong>Pro-tip</strong>: Make a fresh backup (Database and Files) after each successful upgrade, so long as everything is working as expected, it can save you some time if a later upgrade causes issues.</p>
+
+<p>Most of the gotchas and issues will occur during the second step (upgrading from 2 to 3), as this is where the largest changes in the software happen.</p>
+
+<h2>Other Options</h2>
+
+<p>If you&#8217;re on version 2 another option you have is to take the opportunity to revisit your web presence altogether. If your CMS is 7 years old, it&#8217;s likely your website is due for a refresh. ExpressionEngine 5 is a dream machine in comparison to version 2. You want to be on 5. It&#8217;s the most secure, stable, flexible, and user-focused CMS on the market today.</p>
+
+<p>You can contact one of our wonderful <a href="https://expressionengine.com/partners">Service Partners</a> to discuss a rebuild on ExpressionEngine 5.</p>
+
+<p>Whether you choose to upgrade or rebuild your website, ExpressionEngine 5 is 100% the right choice.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:1">
+<p>At the time of this writing, ExpressionEngine 5.0.2 was the latest version. Please check our documentation for the most <a href="https://docs.expressionengine.com/latest/index.html">recent version</a> of ExpressionEngine.&#160;<a href="#fnref:1" class="footnote-backref">&#8617;&#xFE0E;</a></p>
+</li>
+
+<li id="fn:2">
+<p>This is especially important if you are running <em>any</em> add-ons by <a href="https://eeharbor.com/" title="" rel="external">EEHarbor</a>. Do <strong>not</strong> use the 1-click updater until you&#8217;ve updated all your EEHarbor add-ons with ExpressionEngine 5 compatible versions.&#160;<a href="#fnref:2" class="footnote-backref">&#8617;&#xFE0E;</a></p>
+</li>
+
+<li id="fn:3">
+<p>If you aren&#8217;t already on ExpressionEngine 4.3.6, the updater will first update you to 4.3.6, then you will need to run it again to get to 5.0.2.&#160;<a href="#fnref:3" class="footnote-backref">&#8617;&#xFE0E;</a></p>
+</li>
+
+</ol>
+</div>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Thu, 13 Dec 2018 19:33:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5477:"<figure><img src="https://expressionengine.com/asset/img/blog/upgrades-blog-news@2x.png" alt="ExpressionEngine 5 has arrived"></figure>
+
+<p>ExpressionEngine 5<sup id="fnref:1"><a href="#fn:1" class="footnote-ref">1</a></sup> is out and with that comes an upgrade! Upgrading from version 4 is simple. Just make sure <strong>all</strong> your third-party add-ons are up to date<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">2</a></sup>, and then use the 1-click updater<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a></sup>. Easy-peezy lemon-squeezy. Enjoy version 5!</p>
+
+<p>Version 3 is slightly more involved, but it&#8217;s really just a matter of moving some files and visiting a page on your website. We&#8217;ve <a href="https://docs.expressionengine.com/latest/installation/upgrade_from_3.x_4.x.html">documented</a> this for you, so you can&#8217;t go wrong.</p>
+
+<p>If you&#8217;re on version 2, your day is going to be a little more interesting.</p>
+
+<p>The first thing you need to determine is which third-party add-ons you are running. From that list you need to categorize the add-ons into groups in order to decide how to move them forward.</p>
+
+<p>Add-ons that;</p>
+
+<ul>
+<li>Have an ExpressionEngine 5 compatible version available.</li>
+<li>Can be replaced by native functionality.</li>
+<li>Need replacement, or rewriting. </li>
+<li>Can be removed completely.</li>
+</ul>
+
+<h2>Version 5 compatible add-ons</h2>
+
+<p>These are easy, just grab the new version of the add-on and have it ready to install.</p>
+
+<h2>Switch to native</h2>
+
+<p>There&#8217;s a little more work here, however in most cases these will be straightforward changes. And in some cases there are migration scripts to help you make the move; For example, moving from <a href="https://github.com/EllisLab/PlayaMatrixImporter" title="" rel="external">Playa &amp; Matrix to Relationships &amp; Grid</a>.</p>
+
+<h2>Replace, rewrite, or remove.</h2>
+
+<p>Replacing may require a migration path like moving to native as above, or some sort of manual data moving. Rewriting is a bigger job, and most of the time, unless the functionality is vital, it&#8217;s likely best to refactor the functionality. Removing is usually simple, but can have some gotchas if you don&#8217;t fully understand the add-on and what it does. You can always <a href="https://expressionengine.com/services">hire us</a> to help you with replacements, rewrites, and removals.</p>
+
+<p>Whichever route you take with this group of add-ons you&#8217;ll need to schedule a little extra time for the work.</p>
+
+<h2>Next Steps</h2>
+
+<p>After you&#8217;ve figured out all your add-ons you need to tackle the upgrade from 2 to 5. This is best done in smaller steps. I personally recommend the following steps.</p>
+
+<ol>
+<li><a href="https://docs.expressionengine.com/v2/installation/update.html">Upgrade to 2.11.9</a></li>
+<li><a href="https://docs.expressionengine.com/v3/installation/upgrade_from_2.x.html">Upgrade to 3.5.17</a></li>
+<li><a href="https://docs.expressionengine.com/latest/installation/upgrade_from_3.x_4.x.html">Upgrade to 5.0.1</a></li>
+</ol>
+
+<p>After each step, I suggest doing a quick check of your site to make sure everything is working as expected. Then proceed to the next upgrade step. It&#8217;s much easier to debug and fix something that went wrong right away, rather than discovering it later when you&#8217;ve upgraded all the way.</p>
+
+<p><strong>Pro-tip</strong>: Make a fresh backup (Database and Files) after each successful upgrade, so long as everything is working as expected, it can save you some time if a later upgrade causes issues.</p>
+
+<p>Most of the gotchas and issues will occur during the second step (upgrading from 2 to 3), as this is where the largest changes in the software happen.</p>
+
+<h2>Other Options</h2>
+
+<p>If you&#8217;re on version 2 another option you have is to take the opportunity to revisit your web presence altogether. If your CMS is 7 years old, it&#8217;s likely your website is due for a refresh. ExpressionEngine 5 is a dream machine in comparison to version 2. You want to be on 5. It&#8217;s the most secure, stable, flexible, and user-focused CMS on the market today.</p>
+
+<p>You can contact one of our wonderful <a href="https://expressionengine.com/partners">Service Partners</a> to discuss a rebuild on ExpressionEngine 5.</p>
+
+<p>Whether you choose to upgrade or rebuild your website, ExpressionEngine 5 is 100% the right choice.</p>
+
+<div class="footnotes">
+<hr />
+<ol>
+
+<li id="fn:1">
+<p>At the time of this writing, ExpressionEngine 5.0.2 was the latest version. Please check our documentation for the most <a href="https://docs.expressionengine.com/latest/index.html">recent version</a> of ExpressionEngine.&#160;<a href="#fnref:1" class="footnote-backref">&#8617;&#xFE0E;</a></p>
+</li>
+
+<li id="fn:2">
+<p>This is especially important if you are running <em>any</em> add-ons by <a href="https://eeharbor.com/" title="" rel="external">EEHarbor</a>. Do <strong>not</strong> use the 1-click updater until you&#8217;ve updated all your EEHarbor add-ons with ExpressionEngine 5 compatible versions.&#160;<a href="#fnref:2" class="footnote-backref">&#8617;&#xFE0E;</a></p>
+</li>
+
+<li id="fn:3">
+<p>If you aren&#8217;t already on ExpressionEngine 4.3.6, the updater will first update you to 4.3.6, then you will need to run it again to get to 5.0.2.&#160;<a href="#fnref:3" class="footnote-backref">&#8617;&#xFE0E;</a></p>
+</li>
+
+</ol>
+</div>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:2;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:38:"EllisLab Acquired by Digital Locations";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:72:"https://expressionengine.com/blog/ellislab-acquired-by-digital-locations";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:72:"https://expressionengine.com/blog/ellislab-acquired-by-digital-locations";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-12-04T08:01:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-12-04T03:51:18+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Rick Ellis";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:23:"rick.ellis@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:2773:"
+				<p>Now that the ink is dry on the deal we can publicly talk about it:</p>
+
+<p>EllisLab has been acquired by <a href="https://digitallocations.com" rel="external">Digital Locations</a>. We are now a wholly owned subsidiary. </p>
+
+<p>So what does that mean? And how will things change?</p>
+
+<p>Externally, as far as our users are concerned, nothing will change, with one big exception: We now have a lot more resources to invest into ExpressionEngine and into our community. Back when we were bootstrapped we were always limited by available funds. We now have solid backing and the green light to go for it. Over the coming months you&#8217;ll begin to see those resources in action.</p>
+
+<p>Internally, not much will change either. Derek Jones and I will continue being 100% responsible for running <a href="https://expressionengine.com/blog/new-executive-roles">EllisLab</a>. Although we are a subsidiary, we will operate independently. Our only mandate is to make ExpressionEngine and our community the best it can be. As long as we&#8217;re doing that, no one will be breathing down our neck.</p>
+
+<p>So who is Digital Locations? They are a team of very smart people that have recognized that the next iteration of the internet will be driven by Artificial Intelligence and Machine Learning. AI and ML is already being deployed everywhere, from online search, to healthcare, to marketing personalization, to the cars we drive. These technologies have the potential to create much richer experiences for end users.</p>
+
+<p>For anyone that makes their living via the web, the ability to deliver personalized content will be phenomenally important in the future. If you are a web agency, your clients will demand personalization technology so they can better connect with their visitors. People have web sites because they want to effectively interact with their audience. This is a beneficial evolution for both site operators and site visitors.</p>
+
+<p>What&#8217;s exciting for us at EllisLab is we get to be on the forefront of this technology, building AI and Machine Learning tools on top of ExpressionEngine that will allow our users to create much more rich, engaging, and personalized experiences on the web.</p>
+
+<p>Lastly, I want to acknowledge that some people have privacy concerns regarding technologies such as these, and to be honest, we do too. Our goal is to build a richer experience for those that use ExpressionEngine. We believe that AI and ML can be used in responsible and positive ways for that purpose, without compromising privacy concerns. Our GDPR-compliant consent management features are an example of our desire to give end users control over consent.</p>
+
+<p>We think this is incredibly exciting stuff, and we hope you do too.</p>
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Tue, 04 Dec 2018 08:01:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2763:"<p>Now that the ink is dry on the deal we can publicly talk about it:</p>
+
+<p>EllisLab has been acquired by <a href="https://digitallocations.com" rel="external">Digital Locations</a>. We are now a wholly owned subsidiary. </p>
+
+<p>So what does that mean? And how will things change?</p>
+
+<p>Externally, as far as our users are concerned, nothing will change, with one big exception: We now have a lot more resources to invest into ExpressionEngine and into our community. Back when we were bootstrapped we were always limited by available funds. We now have solid backing and the green light to go for it. Over the coming months you&#8217;ll begin to see those resources in action.</p>
+
+<p>Internally, not much will change either. Derek Jones and I will continue being 100% responsible for running <a href="https://expressionengine.com/blog/new-executive-roles">EllisLab</a>. Although we are a subsidiary, we will operate independently. Our only mandate is to make ExpressionEngine and our community the best it can be. As long as we&#8217;re doing that, no one will be breathing down our neck.</p>
+
+<p>So who is Digital Locations? They are a team of very smart people that have recognized that the next iteration of the internet will be driven by Artificial Intelligence and Machine Learning. AI and ML is already being deployed everywhere, from online search, to healthcare, to marketing personalization, to the cars we drive. These technologies have the potential to create much richer experiences for end users.</p>
+
+<p>For anyone that makes their living via the web, the ability to deliver personalized content will be phenomenally important in the future. If you are a web agency, your clients will demand personalization technology so they can better connect with their visitors. People have web sites because they want to effectively interact with their audience. This is a beneficial evolution for both site operators and site visitors.</p>
+
+<p>What&#8217;s exciting for us at EllisLab is we get to be on the forefront of this technology, building AI and Machine Learning tools on top of ExpressionEngine that will allow our users to create much more rich, engaging, and personalized experiences on the web.</p>
+
+<p>Lastly, I want to acknowledge that some people have privacy concerns regarding technologies such as these, and to be honest, we do too. Our goal is to build a richer experience for those that use ExpressionEngine. We believe that AI and ML can be used in responsible and positive ways for that purpose, without compromising privacy concerns. Our GDPR-compliant consent management features are an example of our desire to give end users control over consent.</p>
+
+<p>We think this is incredibly exciting stuff, and we hope you do too.</p>";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:3;a:6:{s:4:"data";s:140:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:35:"Why the Apache Open-Source License?";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:68:"https://expressionengine.com/blog/why-the-apache-open-source-license";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:68:"https://expressionengine.com/blog/why-the-apache-open-source-license";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-11-28T21:43:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-11-28T21:57:43+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:4:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:9:"Education";s:6:"scheme";s:52:"https://expressionengine.com/blog/category/education";s:5:"label";s:9:"Education";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:3;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:5544:"
+				<p>Most people ignore license agreements. And it&#8217;s no wonder, we have years of practice. It started with six-point type on a card inside a software box. Now it&#8217;s a form that scrolls forever before you are allowed to click &#8220;agree&#8221; to update your phone. We are trained to be annoyed by licenses.</p>
+
+<figure><img src="https://expressionengine.com/asset/img/blog/license-agreement.jpg" alt="software license agreement"></figure>
+
+<p>But they&#8217;re a fact of life, and important for digital rights. They are even more critical for projects which accept contributions, like open-source software. Original code is protected under copyright law, which in most countries gives the author the <em>exclusive</em> right to reproduce, distribute, or make derivative works. Without a software license, no one else has the rights to do anything but read the code. Not even use it. So it&#8217;s critical for software licenses to grant contributors and end users the ability to do stuff with the software.</p>
+
+<p>And it needs to do this in a way that is uniform worldwide and minimizes the end user&#8217;s risk. It&#8217;s this protection of end users against risk that led us to the Apache 2.0 Software License.</p>
+
+<h2>Contributions</h2>
+
+<p>As the number of contributors increase, so do the number of people who could lay claim against end users. This is why companies across many industries do not accept ideas from the general public. Each external contribution that is not covered by a license or work-for-hire represents risk to end users, distributors, and the company itself. Companies with products that plan to be around for a long time avoid that risk altogether.</p>
+
+<p>Technology has made it easier to collaborate with talented developers around the world. GitHub in particular has made sharing work so easy, that most developers don&#8217;t consider whether they&#8217;re adding risk to end users. They just want to click the merge button and improve the software. In some circles there is even a dangerous culture of willful ignorance. They feel that legal issues are too complex or distasteful, so they proudly don&#8217;t care, as if that somehow immunizes their project. They ignore the legal implications and added risk for end users.</p>
+
+<p><strong>The Apache license includes a copyright grant for contributors that allows contributions to be licensed to others under the Apache license.</strong> It allows a project to include outside contributions without adding needless risk for end users.†</p>
+
+<h2>Software Patents</h2>
+
+<p>Patent owners often demand royalties for each distributed use of their patented works. This can happen after the fact, too. Sometimes a patent-holder seeks compensation from those who were unaware their software included patented works. If royalties on the software you use were suddenly levied at 5-10% of profit, or your rights were revoked, what would happen to your business?</p>
+
+<p>The most popular open-source license—MIT—was created before software patents were common. Without a separate legal declaration, it&#8217;s unclear whether MIT licensed software a) contains any patented works and b) whether users are infringing on those patents. For a contemporary look at the debate and potential problems this holds, just look at the <a href="https://medium.com/@dwalsh.sdlr/reacts-new-mit-license-the-circus-enters-it-s-third-ring-2f1bf989a67f" title="" rel="external">Facebook React licensing debacle</a>. Explicitness is always preferred to implication.</p>
+
+<p><strong>The Apache license includes a specific patent usage grant to all licensees, and a company&#8217;s own right to use the software is revoked if they bring lawsuit against end users.</strong> This balances the intellectual property rights of patent holders and end users.</p>
+
+<h2>Permissive</h2>
+
+<p>Like MIT and the similar BSD license, the Apache open-source license is very permissive. It has no copyleft provisions, and it contains no political agenda. It is compatible with other software licenses. It gives end users favorable rights and protects them against short and long-term risk. The Apache Software Foundation is satisified with it, and much of the web runs on software with this license. Google chose it for Android. The Cloud Native Computing Foundation chose it for Kubernetes. Apple chose it for Swift. And we&#8217;re happy to choose it for ExpressionEngine.</p>
+
+<p>We have published <a href="https://github.com/ExpressionEngine/ExpressionEngine/blob/stability/CONTRIBUTING.md" title="" rel="external">contribution guidelines</a> so that folks who want to get involved can get started without delay. The Apache license along with a CLA enable low-friction contributions while ensuring a long future and minimal risk for adopters.</p>
+
+<p><em>This blog and its contents are for informational purposes only and do not constitute legal or professional advice.</em></p>
+
+<hr />
+
+<p>† You may have noticed that ExpressionEngine also has a <a href="https://www.clahub.com/agreements/ExpressionEngine/ExpressionEngine" title="" rel="external">Contributor License Agreement</a>. CLAs add another layer of risk mitigation. They feature active rather than passive assent. They make the grant of rights clear. And they allow a project maintainer to later relicense the work without having to seek permission from thousands of contributors. These features all further protect end users, and as such you will find CLAs in all well-maintained projects around the world.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Wed, 28 Nov 2018 21:43:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:5534:"<p>Most people ignore license agreements. And it&#8217;s no wonder, we have years of practice. It started with six-point type on a card inside a software box. Now it&#8217;s a form that scrolls forever before you are allowed to click &#8220;agree&#8221; to update your phone. We are trained to be annoyed by licenses.</p>
+
+<figure><img src="https://expressionengine.com/asset/img/blog/license-agreement.jpg" alt="software license agreement"></figure>
+
+<p>But they&#8217;re a fact of life, and important for digital rights. They are even more critical for projects which accept contributions, like open-source software. Original code is protected under copyright law, which in most countries gives the author the <em>exclusive</em> right to reproduce, distribute, or make derivative works. Without a software license, no one else has the rights to do anything but read the code. Not even use it. So it&#8217;s critical for software licenses to grant contributors and end users the ability to do stuff with the software.</p>
+
+<p>And it needs to do this in a way that is uniform worldwide and minimizes the end user&#8217;s risk. It&#8217;s this protection of end users against risk that led us to the Apache 2.0 Software License.</p>
+
+<h2>Contributions</h2>
+
+<p>As the number of contributors increase, so do the number of people who could lay claim against end users. This is why companies across many industries do not accept ideas from the general public. Each external contribution that is not covered by a license or work-for-hire represents risk to end users, distributors, and the company itself. Companies with products that plan to be around for a long time avoid that risk altogether.</p>
+
+<p>Technology has made it easier to collaborate with talented developers around the world. GitHub in particular has made sharing work so easy, that most developers don&#8217;t consider whether they&#8217;re adding risk to end users. They just want to click the merge button and improve the software. In some circles there is even a dangerous culture of willful ignorance. They feel that legal issues are too complex or distasteful, so they proudly don&#8217;t care, as if that somehow immunizes their project. They ignore the legal implications and added risk for end users.</p>
+
+<p><strong>The Apache license includes a copyright grant for contributors that allows contributions to be licensed to others under the Apache license.</strong> It allows a project to include outside contributions without adding needless risk for end users.†</p>
+
+<h2>Software Patents</h2>
+
+<p>Patent owners often demand royalties for each distributed use of their patented works. This can happen after the fact, too. Sometimes a patent-holder seeks compensation from those who were unaware their software included patented works. If royalties on the software you use were suddenly levied at 5-10% of profit, or your rights were revoked, what would happen to your business?</p>
+
+<p>The most popular open-source license—MIT—was created before software patents were common. Without a separate legal declaration, it&#8217;s unclear whether MIT licensed software a) contains any patented works and b) whether users are infringing on those patents. For a contemporary look at the debate and potential problems this holds, just look at the <a href="https://medium.com/@dwalsh.sdlr/reacts-new-mit-license-the-circus-enters-it-s-third-ring-2f1bf989a67f" title="" rel="external">Facebook React licensing debacle</a>. Explicitness is always preferred to implication.</p>
+
+<p><strong>The Apache license includes a specific patent usage grant to all licensees, and a company&#8217;s own right to use the software is revoked if they bring lawsuit against end users.</strong> This balances the intellectual property rights of patent holders and end users.</p>
+
+<h2>Permissive</h2>
+
+<p>Like MIT and the similar BSD license, the Apache open-source license is very permissive. It has no copyleft provisions, and it contains no political agenda. It is compatible with other software licenses. It gives end users favorable rights and protects them against short and long-term risk. The Apache Software Foundation is satisified with it, and much of the web runs on software with this license. Google chose it for Android. The Cloud Native Computing Foundation chose it for Kubernetes. Apple chose it for Swift. And we&#8217;re happy to choose it for ExpressionEngine.</p>
+
+<p>We have published <a href="https://github.com/ExpressionEngine/ExpressionEngine/blob/stability/CONTRIBUTING.md" title="" rel="external">contribution guidelines</a> so that folks who want to get involved can get started without delay. The Apache license along with a CLA enable low-friction contributions while ensuring a long future and minimal risk for adopters.</p>
+
+<p><em>This blog and its contents are for informational purposes only and do not constitute legal or professional advice.</em></p>
+
+<hr />
+
+<p>† You may have noticed that ExpressionEngine also has a <a href="https://www.clahub.com/agreements/ExpressionEngine/ExpressionEngine" title="" rel="external">Contributor License Agreement</a>. CLAs add another layer of risk mitigation. They feature active rather than passive assent. They make the grant of rights clear. And they allow a project maintainer to later relicense the work without having to seek permission from thousands of contributors. These features all further protect end users, and as such you will find CLAs in all well-maintained projects around the world.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:4;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:36:"ExpressionEngine 5 is Available Now!";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:69:"https://expressionengine.com/blog/expressionengine-5-is-available-now";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:69:"https://expressionengine.com/blog/expressionengine-5-is-available-now";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-11-19T15:35:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-11-19T20:12:51+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:2416:"
+				<figure><img src="https://expressionengine.com/asset/img/blog/5.0-announce-blog-news@2x_.png" alt="ExpressionEngine 5 has arrived"></figure>
+
+<p>A momentous event in ExpressionEngine&#8217;s history has occurred. We just shipped Version 5, the first release as Free Open-Source Software!</p>
+
+<p>A major version change gives a clean break and adds clarity for all users of what license they are running. This version removes licensing and Core feature restrictions, and has no impact on third-party add-ons.†</p>
+
+<p>ExpressionEngine development is taking place in public <a href="https://github.com/ExpressionEngine/ExpressionEngine" title="" rel="external">on GitHub</a>, and licensed under a true open-source license: the permissive <a href="https://expressionengine.com/license">Apache 2.0 Software License</a>. We are thrilled at what this means for for the vast markets that must use open-source solutions. Earlier today, Rick Ellis <a href="https://expressionengine.com/blog/open-source-has-won">explained how we came to this decision</a>, and what it means for our future.</p>
+
+<p>We’ve got a lot more to share in the coming days, but suffice it to say, we are pumped! We’ve changed who we are as a company overnight and the adrenaline is coursing! Make sure you check out our new first-party <a href="https://expressionengine.com/support">support options</a> and <a href="https://expressionengine.com/services">high-end services</a> that are now available. Companies that want to get involved as ExpressionEngine’s service providers can become <a href="https://expressionengine.com/partners">partners in our ecosystem</a>.</p>
+
+<p>As always, this means the previous major version <a href="https://expressionengine.com/support/version-support">is now <em>legacy software</em></a>. Version 4, we barely got to know you. v4&#8217;s end of life is scheduled for November 16, 2019, and will now only receive security updates.</p>
+
+<p>Lastly, ExpressionEngine has its own new account on Twitter, so make sure you <a href="https://twitter.com/intent/follow?screen_name=eecms" title="" rel="external">follow @eecms</a>!</p>
+
+<p>† Due to this being a major version change all EEHarbor add-ons will <a href="https://eeharbor.com/blog/add-ons-for-expressionengine-5" title="" rel="external">need to be upgraded</a> <em>before</em> upgrading ExpressionEngine to ensure a smooth upgrade process.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 19 Nov 2018 15:35:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2406:"<figure><img src="https://expressionengine.com/asset/img/blog/5.0-announce-blog-news@2x_.png" alt="ExpressionEngine 5 has arrived"></figure>
+
+<p>A momentous event in ExpressionEngine&#8217;s history has occurred. We just shipped Version 5, the first release as Free Open-Source Software!</p>
+
+<p>A major version change gives a clean break and adds clarity for all users of what license they are running. This version removes licensing and Core feature restrictions, and has no impact on third-party add-ons.†</p>
+
+<p>ExpressionEngine development is taking place in public <a href="https://github.com/ExpressionEngine/ExpressionEngine" title="" rel="external">on GitHub</a>, and licensed under a true open-source license: the permissive <a href="https://expressionengine.com/license">Apache 2.0 Software License</a>. We are thrilled at what this means for for the vast markets that must use open-source solutions. Earlier today, Rick Ellis <a href="https://expressionengine.com/blog/open-source-has-won">explained how we came to this decision</a>, and what it means for our future.</p>
+
+<p>We’ve got a lot more to share in the coming days, but suffice it to say, we are pumped! We’ve changed who we are as a company overnight and the adrenaline is coursing! Make sure you check out our new first-party <a href="https://expressionengine.com/support">support options</a> and <a href="https://expressionengine.com/services">high-end services</a> that are now available. Companies that want to get involved as ExpressionEngine’s service providers can become <a href="https://expressionengine.com/partners">partners in our ecosystem</a>.</p>
+
+<p>As always, this means the previous major version <a href="https://expressionengine.com/support/version-support">is now <em>legacy software</em></a>. Version 4, we barely got to know you. v4&#8217;s end of life is scheduled for November 16, 2019, and will now only receive security updates.</p>
+
+<p>Lastly, ExpressionEngine has its own new account on Twitter, so make sure you <a href="https://twitter.com/intent/follow?screen_name=eecms" title="" rel="external">follow @eecms</a>!</p>
+
+<p>† Due to this being a major version change all EEHarbor add-ons will <a href="https://eeharbor.com/blog/add-ons-for-expressionengine-5" title="" rel="external">need to be upgraded</a> <em>before</em> upgrading ExpressionEngine to ensure a smooth upgrade process.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:5;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:19:"Open Source Has Won";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:53:"https://expressionengine.com/blog/open-source-has-won";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:53:"https://expressionengine.com/blog/open-source-has-won";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-11-19T11:00:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-11-19T15:24:47+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:10:"Rick Ellis";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:23:"rick.ellis@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:2569:"
+				<figure><img src="https://expressionengine.com/asset/img/blog/open-source@2x.png" alt="ExpressionEngine: the Future of Open Source"></figure>
+
+<p>I was asked on Twitter the other day why we decided to re-license ExpressionEngine as free and open source software (FOSS). My two sentence response was this:</p>
+
+<p>Open source has won. It&#8217;s not even a contest anymore.</p>
+
+<p>Although open source was a viable licensing model when we launched our first CMS back in 2002, it was not apparent then just how dominant open source would become on the web. It wasn&#8217;t until Eric Raymond wrote The Cathedral &amp; The Bazaar that open source would even begin to enter the general public&#8217;s consciousness. Since then we&#8217;ve watched the open source market grow rapidly and continuously.</p>
+
+<p>Today, over 90% of the CMS market is open source. In fact, it&#8217;s nearly the de-facto license model for all-things web. Stunningly, the market is expected to triple in revenue within the next five to ten years, and it&#8217;s estimated that over 70% of businesses worldwide rely on open-source software. To say that the internet <em>is</em> open source would not be an exaggeration. It&#8217;s that dominant.</p>
+
+<p>At EllisLab we&#8217;ve been talking about migrating to open source for a very long time, but until recently we had not found the right strategic and financial partner to enable the full vision of what we hope to achieve.</p>
+
+<p>For us, the question was never whether we could build a successful services model&#8211;we&#8217;ve always believed we could. But rather, could we secure the resources to go after key global market opportunities and build technologies into ExpressionEngine that might help define the future of the web. We&#8217;re thrilled that we are now able to affirmatively answer that question.</p>
+
+<p>A house must be built on a solid foundation, so the first order of business for EllisLab is to build a successful services model. That&#8217;s no small task and we are ready for the challenge. But our business plan doesn&#8217;t end there. We have other phases planned that will take advantage of tremendous opportunities in this space and bring features and capability to ExpressionEngine that will put it in a league of its own. With our visionary partners, the future looks very bright indeed.</p>
+
+<p>We&#8217;ll have much more to talk about in the coming months, but today we are thrilled at our new direction. And based on the overwhelmingly positive feedback, the ExpressionEngine community is too.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 19 Nov 2018 11:00:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:2559:"<figure><img src="https://expressionengine.com/asset/img/blog/open-source@2x.png" alt="ExpressionEngine: the Future of Open Source"></figure>
+
+<p>I was asked on Twitter the other day why we decided to re-license ExpressionEngine as free and open source software (FOSS). My two sentence response was this:</p>
+
+<p>Open source has won. It&#8217;s not even a contest anymore.</p>
+
+<p>Although open source was a viable licensing model when we launched our first CMS back in 2002, it was not apparent then just how dominant open source would become on the web. It wasn&#8217;t until Eric Raymond wrote The Cathedral &amp; The Bazaar that open source would even begin to enter the general public&#8217;s consciousness. Since then we&#8217;ve watched the open source market grow rapidly and continuously.</p>
+
+<p>Today, over 90% of the CMS market is open source. In fact, it&#8217;s nearly the de-facto license model for all-things web. Stunningly, the market is expected to triple in revenue within the next five to ten years, and it&#8217;s estimated that over 70% of businesses worldwide rely on open-source software. To say that the internet <em>is</em> open source would not be an exaggeration. It&#8217;s that dominant.</p>
+
+<p>At EllisLab we&#8217;ve been talking about migrating to open source for a very long time, but until recently we had not found the right strategic and financial partner to enable the full vision of what we hope to achieve.</p>
+
+<p>For us, the question was never whether we could build a successful services model&#8211;we&#8217;ve always believed we could. But rather, could we secure the resources to go after key global market opportunities and build technologies into ExpressionEngine that might help define the future of the web. We&#8217;re thrilled that we are now able to affirmatively answer that question.</p>
+
+<p>A house must be built on a solid foundation, so the first order of business for EllisLab is to build a successful services model. That&#8217;s no small task and we are ready for the challenge. But our business plan doesn&#8217;t end there. We have other phases planned that will take advantage of tremendous opportunities in this space and bring features and capability to ExpressionEngine that will put it in a league of its own. With our visionary partners, the future looks very bright indeed.</p>
+
+<p>We&#8217;ll have much more to talk about in the coming months, but today we are thrilled at our new direction. And based on the overwhelmingly positive feedback, the ExpressionEngine community is too.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:6;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:30:"Version 3 End-of-life Reminder";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:64:"https://expressionengine.com/blog/version-3-end-of-life-reminder";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:64:"https://expressionengine.com/blog/version-3-end-of-life-reminder";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-09-14T18:14:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-09-14T18:20:18+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:871:"
+				<figure><img src="https://expressionengine.com/asset/img/blog/3-retired-blog-news@2x.png" alt="ExpressionEngine 3 Retirement"></figure>
+
+<p>ExpressionEngine 3 is entering the tail end of its support life, and is set to retire on December 14, 2018. Once retired, it will no longer receives bug fixes or security patches. You can read more about our end-of-life policy for legacy software on our <a href="https://expressionengine.createsend1.com/t/r-l-jjdljtc-l-y/">version support page</a>.</p>
+
+<p>In celebration of its retirement, all ExpressionEngine upgrades are currently <strong>10% off</strong> until next Friday, September 21st! Upgrade today and enjoy all the <a href="https://expressionengine.com/whats-new">great new features in v4</a>.</p>
+
+<p><a href="https://expressionengine.com/store/purchases">Click here to view your eligible licenses</a>!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 14 Sep 2018 18:14:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:861:"<figure><img src="https://expressionengine.com/asset/img/blog/3-retired-blog-news@2x.png" alt="ExpressionEngine 3 Retirement"></figure>
+
+<p>ExpressionEngine 3 is entering the tail end of its support life, and is set to retire on December 14, 2018. Once retired, it will no longer receives bug fixes or security patches. You can read more about our end-of-life policy for legacy software on our <a href="https://expressionengine.createsend1.com/t/r-l-jjdljtc-l-y/">version support page</a>.</p>
+
+<p>In celebration of its retirement, all ExpressionEngine upgrades are currently <strong>10% off</strong> until next Friday, September 21st! Upgrade today and enjoy all the <a href="https://expressionengine.com/whats-new">great new features in v4</a>.</p>
+
+<p><a href="https://expressionengine.com/store/purchases">Click here to view your eligible licenses</a>!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:7;a:6:{s:4:"data";s:140:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:32:"EE Conf 2018 Workshops and Talks";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:66:"https://expressionengine.com/blog/ee-conf-2018-workshops-and-talks";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:66:"https://expressionengine.com/blog/ee-conf-2018-workshops-and-talks";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-07-20T13:10:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-07-20T00:30:37+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:4:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:9:"Education";s:6:"scheme";s:52:"https://expressionengine.com/blog/category/education";s:5:"label";s:9:"Education";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:3;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:3851:"
+				<figure><img src="https://expressionengine.com/asset/img/blog/eeconf-2018-blog-news@2x.png" alt="EE Conf 2018 EllisLab Speakers"></figure>
+
+<p>We&#8217;re getting super excited about <a href="https://www.eeconf.com/?utm_source=web&amp;utm_medium=blog&amp;utm_campaign=EL" title="" rel="external">this year&#8217;s ExpressionEngine conference</a>. This year we are supporting the community-owned conference by presenting two workshops and a talk!</p>
+
+<div class="card card">
+    <figure class="card__image">
+        <img src="https://expressionengine.com/asset/images/avatars/avatar_96919.png" alt="Kevin Cupp">
+    </figure>
+    <div class="card__content">
+        <h2 class="card__header">Kevin Cupp</h2>
+        <p><b>Docker Workshop</b></p>
+        <p>Kevin is one of our Senior Software Engineers. He&#8217;s played a big role in configuring our automated testing and build environments, and is all about some Docker.</p>
+        <p>You’ve probably heard about Docker, but what is it? How does it work? Kevin is co-presenting with Nick Johnson from <a href="http://reusserdesign.com" rel="external">Reusser Design</a>, and they&#8217;ll cover all the basics and show you how you can stop fighting your development environment and have one that just works.</p>
+    </div>
+</div>
+
+<div class="card card">
+    <figure class="card__image">
+        <img src="https://expressionengine.com/asset/images/avatars/avatar_2048.png" alt="Robin Sowell">
+    </figure>
+    <div class="card__content">
+        <h2 class="card__header">Robin Sowell</h2>
+        <p><b>Fluid Fields Workshop</b></p>
+        <p>Our Development Liaison and unofficial Support Queen, Robin is back for another eye-opening workshop that will supercharge your ExpressionEngine development. At last year&#8217;s conference she showed you the ins and outs of using Template Layouts effectively.</p>
+        <p>This year, Robin will pull the curtain back on Fluid Fields, one of ExpressionEngine 4&#8217;s headlining features. She&#8217;ll show you the basics, the advanced, and even some cool tricks you never thought of to give content authors the ultimate flexibility and power, without compromising the site design or the editing experience.</p>
+    </div>
+</div>
+
+<div class="card card">
+    <figure class="card__image">
+        <img src="https://expressionengine.com/asset/images/avatars/avatar_64289.jpg" alt="James Mathias">
+    </figure>
+    <div class="card__content">
+        <h2 class="card__header">James Mathias</h2>
+        <p><b>User Experience Talk</b></p>
+        <p>James is our Chief Creative Officer and is a big part of the extensive improvements in usability made in the last two major versions of ExpressionEngine. He&#8217;s generally three steps ahead of us, and is already cooking up innovations for the next major version.</p>
+        <p>In his talk, James will answer the question that a lot of designers hear: &#8220;What are you thinking?!?&#8221;. He&#8217;ll walk you through his thought process, work flow, and techniques for applying UX to the ExpressionEngine control panel. James will also touch on what UX is to him, what it means for ExpressionEngine, and how he applies his methodology to the product, its marketing and more.</p>
+    </div>
+</div>
+
+<h2>And great topics from the ExpressionEngine community and&nbsp;beyond!</h2>
+
+<p>Curing Imposter Syndrome, managing projects, template strategy, A/B testing, building your agency, selling your favorite CMS ExpressionEngine in competitive situations, and much more! A diverse panel of speakers and business/dev tracks mean something interesting for you every hour of all three days.</p>
+
+<p><a href="https://www.eeconf.com/?utm_source=web&amp;utm_medium=blog&amp;utm_campaign=EL" title="" rel="external">Get your tickets now</a> and don&#8217;t miss out, we&#8217;ll see you there!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 20 Jul 2018 13:10:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:3841:"<figure><img src="https://expressionengine.com/asset/img/blog/eeconf-2018-blog-news@2x.png" alt="EE Conf 2018 EllisLab Speakers"></figure>
+
+<p>We&#8217;re getting super excited about <a href="https://www.eeconf.com/?utm_source=web&amp;utm_medium=blog&amp;utm_campaign=EL" title="" rel="external">this year&#8217;s ExpressionEngine conference</a>. This year we are supporting the community-owned conference by presenting two workshops and a talk!</p>
+
+<div class="card card">
+    <figure class="card__image">
+        <img src="https://expressionengine.com/asset/images/avatars/avatar_96919.png" alt="Kevin Cupp">
+    </figure>
+    <div class="card__content">
+        <h2 class="card__header">Kevin Cupp</h2>
+        <p><b>Docker Workshop</b></p>
+        <p>Kevin is one of our Senior Software Engineers. He&#8217;s played a big role in configuring our automated testing and build environments, and is all about some Docker.</p>
+        <p>You’ve probably heard about Docker, but what is it? How does it work? Kevin is co-presenting with Nick Johnson from <a href="http://reusserdesign.com" rel="external">Reusser Design</a>, and they&#8217;ll cover all the basics and show you how you can stop fighting your development environment and have one that just works.</p>
+    </div>
+</div>
+
+<div class="card card">
+    <figure class="card__image">
+        <img src="https://expressionengine.com/asset/images/avatars/avatar_2048.png" alt="Robin Sowell">
+    </figure>
+    <div class="card__content">
+        <h2 class="card__header">Robin Sowell</h2>
+        <p><b>Fluid Fields Workshop</b></p>
+        <p>Our Development Liaison and unofficial Support Queen, Robin is back for another eye-opening workshop that will supercharge your ExpressionEngine development. At last year&#8217;s conference she showed you the ins and outs of using Template Layouts effectively.</p>
+        <p>This year, Robin will pull the curtain back on Fluid Fields, one of ExpressionEngine 4&#8217;s headlining features. She&#8217;ll show you the basics, the advanced, and even some cool tricks you never thought of to give content authors the ultimate flexibility and power, without compromising the site design or the editing experience.</p>
+    </div>
+</div>
+
+<div class="card card">
+    <figure class="card__image">
+        <img src="https://expressionengine.com/asset/images/avatars/avatar_64289.jpg" alt="James Mathias">
+    </figure>
+    <div class="card__content">
+        <h2 class="card__header">James Mathias</h2>
+        <p><b>User Experience Talk</b></p>
+        <p>James is our Chief Creative Officer and is a big part of the extensive improvements in usability made in the last two major versions of ExpressionEngine. He&#8217;s generally three steps ahead of us, and is already cooking up innovations for the next major version.</p>
+        <p>In his talk, James will answer the question that a lot of designers hear: &#8220;What are you thinking?!?&#8221;. He&#8217;ll walk you through his thought process, work flow, and techniques for applying UX to the ExpressionEngine control panel. James will also touch on what UX is to him, what it means for ExpressionEngine, and how he applies his methodology to the product, its marketing and more.</p>
+    </div>
+</div>
+
+<h2>And great topics from the ExpressionEngine community and&nbsp;beyond!</h2>
+
+<p>Curing Imposter Syndrome, managing projects, template strategy, A/B testing, building your agency, selling your favorite CMS ExpressionEngine in competitive situations, and much more! A diverse panel of speakers and business/dev tracks mean something interesting for you every hour of all three days.</p>
+
+<p><a href="https://www.eeconf.com/?utm_source=web&amp;utm_medium=blog&amp;utm_campaign=EL" title="" rel="external">Get your tickets now</a> and don&#8217;t miss out, we&#8217;ll see you there!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:8;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:25:"Prime Day Deals are Here!";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:58:"https://expressionengine.com/blog/prime-day-deals-are-here";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:58:"https://expressionengine.com/blog/prime-day-deals-are-here";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-07-16T18:50:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-07-16T17:58:42+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:11:"Derek Jones";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:24:"derek.jones@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:1028:"
+				<figure><img src="https://expressionengine.com/asset/img/blog/prime-sale-blog-news_2x.png" alt="Prime Day Sale"></figure>
+
+<p>So we don&#8217;t really understand why, but there is apparently a holiday going on from Noon PST through midnight tomorrow in honor of prime numbers. We hate feeling left out, so from now until tomorrow night ONLY, we have repriced ExpressionEngine using only prime numbers:</p>
+
+<ul>
+<li>ExpressionEngine 4: <del>$299</del> <strong>$271</strong>
+
+<ul>
+<li>Additional Sites: <del>$199</del> <strong>$179/ea</strong></li>
+</ul></li>
+<li>Upgrade from ExpressionEngine 3: <del>$99</del> <strong>$89</strong>
+
+<ul>
+<li>Upgrade from ExpressionEngine 2 to 3: <del>$149</del> <strong>$131</strong></li>
+<li>That means you save <strong>$79</strong> total if you then leap to v4!</li>
+</ul></li>
+</ul>
+
+<p>Don&#8217;t delay, our celebration of prime numbers ends in only 36 hours! Wait&#8230; shouldn&#8217;t that be like 37 hours? Really don&#8217;t understand how this holiday works, oh well!</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Mon, 16 Jul 2018 18:50:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:1018:"<figure><img src="https://expressionengine.com/asset/img/blog/prime-sale-blog-news_2x.png" alt="Prime Day Sale"></figure>
+
+<p>So we don&#8217;t really understand why, but there is apparently a holiday going on from Noon PST through midnight tomorrow in honor of prime numbers. We hate feeling left out, so from now until tomorrow night ONLY, we have repriced ExpressionEngine using only prime numbers:</p>
+
+<ul>
+<li>ExpressionEngine 4: <del>$299</del> <strong>$271</strong>
+
+<ul>
+<li>Additional Sites: <del>$199</del> <strong>$179/ea</strong></li>
+</ul></li>
+<li>Upgrade from ExpressionEngine 3: <del>$99</del> <strong>$89</strong>
+
+<ul>
+<li>Upgrade from ExpressionEngine 2 to 3: <del>$149</del> <strong>$131</strong></li>
+<li>That means you save <strong>$79</strong> total if you then leap to v4!</li>
+</ul></li>
+</ul>
+
+<p>Don&#8217;t delay, our celebration of prime numbers ends in only 36 hours! Wait&#8230; shouldn&#8217;t that be like 37 hours? Really don&#8217;t understand how this holiday works, oh well!</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}i:9;a:6:{s:4:"data";s:123:"
+				
+				
+				
+				
+				
+				
+				
+					
+					
+				
+					
+					
+				
+					
+					
+				
+				
+
+				
+				
+					
+					
+				
+			";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:10:{s:5:"title";a:1:{i:0;a:5:{s:4:"data";s:42:"ExpressionEngine 4.3: The EU Made Me Do It";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:4:"link";a:1:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:3:"rel";s:9:"alternate";s:4:"type";s:9:"text/html";s:4:"href";s:75:"https://expressionengine.com/blog/expressionengine-4.3-the-eu-made-me-do-it";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:2:"id";a:1:{i:0;a:5:{s:4:"data";s:75:"https://expressionengine.com/blog/expressionengine-4.3-the-eu-made-me-do-it";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:9:"published";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-05-25T15:39:00+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"updated";a:1:{i:0;a:5:{s:4:"data";s:25:"2018-05-25T15:50:06+00:00";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:6:"author";a:1:{i:0;a:6:{s:4:"data";s:23:"
+					
+					
+					
+				";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";s:5:"child";a:1:{s:27:"http://www.w3.org/2005/Atom";a:2:{s:4:"name";a:1:{i:0;a:5:{s:4:"data";s:12:"Robin Sowell";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:5:"email";a:1:{i:0;a:5:{s:4:"data";s:25:"robin.sowell@ellislab.com";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}s:8:"category";a:3:{i:0;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:17:"CP Accessory Feed";s:6:"scheme";s:60:"https://expressionengine.com/blog/category/cp-accessory-feed";s:5:"label";s:17:"CP Accessory Feed";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:1;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:16:"ExpressionEngine";s:6:"scheme";s:59:"https://expressionengine.com/blog/category/expressionengine";s:5:"label";s:16:"ExpressionEngine";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}i:2;a:5:{s:4:"data";s:0:"";s:7:"attribs";a:1:{s:0:"";a:3:{s:4:"term";s:4:"News";s:6:"scheme";s:47:"https://expressionengine.com/blog/category/news";s:5:"label";s:4:"News";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"content";a:1:{i:0;a:5:{s:4:"data";s:7296:"
+				<figure>
+    <img src="https://expressionengine.com/asset/img/blog/4.3-announce-blog-news@2x_.png" alt="Welcome to 4.2">
+</figure>
+
+<p>Tis the season for updated privacy notifications, as websites scramble to comply with the European Union&#8217;s <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation</a> (<abbr title="General Data Protection Regulation">GDPR</abbr>), which goes into effect May 25th, 2018. Since the regulation applies to any entity processing the personal data of EU citizens, ignoring it really isn&#8217;t a good option. Upgrading to ExpressionEngine v4.3 is.</p>
+
+<p>ExpressionEngine v4.3 brings a comprehensive set of tools that make it the go-to CMS for building sites that take user privacy concerns seriously. It handles the heavy lifting, making it easy for designers and third party developers to create <abbr title="General Data Protection Regulation">GDPR</abbr> compliant websites.</p>
+
+<h2>Consent Manager</h2>
+
+<p>The <abbr title="General Data Protection Regulation">GDPR</abbr> is all about transparency and the need to obtain consent before processing personal data.  The new Consent Manager allows users to create and manage any requests for consent that they may need.  Have a Terms of Service? Create a consent request for it. Offering email sign-ups? Consent request.  Want to use targeted ad tracking? You know what you need to do.</p>
+
+<p>The consent manager even lets you manage consent requests you didn&#8217;t know you needed. Native consent requests are automatically created and third party add-ons that may require consent can create their own consent requests upon installation or update.</p>
+
+<p>On the frontend, users can easily view all existing consent requests, give or deny consent, and modify their consent settings at any time.  <a href="https://docs.expressionengine.com/v4/templates/globals/consent.html">Global consent variables</a> make it simple to alter content based on a user&#8217;s consent to a given request:</p>
+
+<div class="codeblock"><pre><code>&#123;if consent:ee_mail:email_collection&#125;
+
+    &#123;sign_up_button&#125;
+
+&#123;/if&#125;
+</code></pre></div>
+
+<p>All of those user responses to the consent requests are maintained in an <a href="https://docs.expressionengine.com/v4/cp/logs/consent.html">audit log</a>, making it a simple matter to report a user&#8217;s consent history. Because when dealing with the law, it&#8217;s always best to cover your &#8230; bases.</p>
+
+<h2>Cookie Consent</h2>
+
+<p>The <abbr title="General Data Protection Regulation">GDPR</abbr>&#8217;s discussion of cookies is sparse, but we&#8217;ve jumped through hoops before <a href="https://expressionengine.com/blog/the-cookie-consent-module-eu-cookie-legislation">due to EU cookie regulations</a>, so we&#8217;ve built in native cookie consent functionality that will stand up to the strictest interpretations of the <abbr title="General Data Protection Regulation">GDPR</abbr> on cookies.</p>
+
+<p>If you enable the cookie consent requirement in the <a href="https://docs.expressionengine.com/v4/cp/settings/security-privacy.html#require-user-consent-to-set-cookies">cookie settings</a>, only <strong>strictly necessary cookies</strong> will be set natively without first obtaining explicit prior consent.  Native ExpressionEngine cookies are <a href="https://docs.expressionengine.com/v4/general/cookies.html">well documented</a>, and necessary cookies do not contain any Personally Identifiable Information (<abbr title="Personally Identifiable Information">PII</abbr>).</p>
+
+<p>Consent to set non-necessary cookies can be managed via the Consent Manager, just like any other consent request.  Third party add-ons can register cookies they set as well. Any non-necessary cookie that is set via internal ExpressionEngine methods will require user consent prior to being set.</p>
+
+<h2>Member Anonymization</h2>
+
+<p>In addition to making certain users know what data a site is collecting and requiring permission for any <abbr title="Personally Identifiable Information">PII</abbr> data, the <abbr title="General Data Protection Regulation">GDPR</abbr> requires that users be able to remove their personal data at will.  In many cases, this is simply a matter of deleting the member, which is already an option. But there are times when a record needs to be maintained, such as purchase records.</p>
+
+<p>If deleting all traces of a member isn&#8217;t viable, version 4.3 allows you to &#8216;Anonymize&#8217; an existing user, wiping out all <abbr title="Personally Identifiable Information">PII</abbr> data but still maintaining the non-identifiable elements for the record.  To anonymize a member&#8217;s record, visit the Member&#8217;s profile in the control panel, and click &#8220;Anonymize Member Record&#8221;.</p>
+
+<p>Third party developers can sanitize any data they have stored as well via the new extension hooks.</p>
+
+<h2>Extension Hooks You Say?</h2>
+
+<p>Yes, one goal in v4.3 is to make it as easy as possible for third party developers to make their add-ons <abbr title="General Data Protection Regulation">GDPR</abbr> friendly.</p>
+
+<p>The add-on has its own cookies?  Put them in <a href="https://docs.expressionengine.com/v4/development/addon_setup_php_file.html">addon.addon.setup.php file</a>. Need to collect personal data? Add a few more lines to <code>addon.setup.php</code>.  The native <a href="https://docs.expressionengine.com/v4/add-ons/consent/index.html">Consent module</a> will handle users granting and denying consent for all registered consent requests, both first and third party.</p>
+
+<p>If your add-on needs to check those permissions before performing an action, the <a href="https://docs.expressionengine.com/v4/development/services/consent.html">Consent service</a> makes it easy. And the new <a href="https://docs.expressionengine.com/v4/development/extension_hooks/model/member/index.html#member-anonymize">member_anonymization hook</a> lets you know if you need to nuke any <abbr title="Personally Identifiable Information">PII</abbr> your add-on stores!</p>
+
+<h2>Breach Notification</h2>
+
+<p>Continuing the focus on transparency, the <abbr title="General Data Protection Regulation">GDPR</abbr> details specific requirements concerning the notification of the subjects of a data breach. The new <a href="https://docs.expressionengine.com/v4//cp/utilities/mass-notification-export.html">Mass Notification Export</a> utility will output both a full and a validated CSV of member email addresses. That makes it fast and easy to export to a third-party validation and mass notification service to make sure your emails are delivered and your domain doesn&#8217;t get blacklisted for spam. It&#8217;s one less thing to worry about in the unlikely event data is compromised.</p>
+
+<h2>Don&#8217;t care about the <abbr title="General Data Protection Regulation">GDPR</abbr>?</h2>
+
+<p>Totally unaffected by the <abbr title="General Data Protection Regulation">GDPR</abbr>? Celebrate your good fortune by checking out the new filters on the entry manager. Filter by author or set parameters on where to search while laughing at the rest of us as we try to figure out what counts as &#8216;Personally Identifying Information&#8217;.</p>
+
+				";s:7:"attribs";a:1:{s:0:"";a:1:{s:4:"type";s:4:"html";}}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:7:"pubDate";a:1:{i:0;a:5:{s:4:"data";s:31:"Fri, 25 May 2018 15:39:00 +0000";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}s:11:"description";a:1:{i:0;a:5:{s:4:"data";s:7286:"<figure>
+    <img src="https://expressionengine.com/asset/img/blog/4.3-announce-blog-news@2x_.png" alt="Welcome to 4.2">
+</figure>
+
+<p>Tis the season for updated privacy notifications, as websites scramble to comply with the European Union&#8217;s <a href="https://en.wikipedia.org/wiki/General_Data_Protection_Regulation">General Data Protection Regulation</a> (<abbr title="General Data Protection Regulation">GDPR</abbr>), which goes into effect May 25th, 2018. Since the regulation applies to any entity processing the personal data of EU citizens, ignoring it really isn&#8217;t a good option. Upgrading to ExpressionEngine v4.3 is.</p>
+
+<p>ExpressionEngine v4.3 brings a comprehensive set of tools that make it the go-to CMS for building sites that take user privacy concerns seriously. It handles the heavy lifting, making it easy for designers and third party developers to create <abbr title="General Data Protection Regulation">GDPR</abbr> compliant websites.</p>
+
+<h2>Consent Manager</h2>
+
+<p>The <abbr title="General Data Protection Regulation">GDPR</abbr> is all about transparency and the need to obtain consent before processing personal data.  The new Consent Manager allows users to create and manage any requests for consent that they may need.  Have a Terms of Service? Create a consent request for it. Offering email sign-ups? Consent request.  Want to use targeted ad tracking? You know what you need to do.</p>
+
+<p>The consent manager even lets you manage consent requests you didn&#8217;t know you needed. Native consent requests are automatically created and third party add-ons that may require consent can create their own consent requests upon installation or update.</p>
+
+<p>On the frontend, users can easily view all existing consent requests, give or deny consent, and modify their consent settings at any time.  <a href="https://docs.expressionengine.com/v4/templates/globals/consent.html">Global consent variables</a> make it simple to alter content based on a user&#8217;s consent to a given request:</p>
+
+<div class="codeblock"><pre><code>&#123;if consent:ee_mail:email_collection&#125;
+
+    &#123;sign_up_button&#125;
+
+&#123;/if&#125;
+</code></pre></div>
+
+<p>All of those user responses to the consent requests are maintained in an <a href="https://docs.expressionengine.com/v4/cp/logs/consent.html">audit log</a>, making it a simple matter to report a user&#8217;s consent history. Because when dealing with the law, it&#8217;s always best to cover your &#8230; bases.</p>
+
+<h2>Cookie Consent</h2>
+
+<p>The <abbr title="General Data Protection Regulation">GDPR</abbr>&#8217;s discussion of cookies is sparse, but we&#8217;ve jumped through hoops before <a href="https://expressionengine.com/blog/the-cookie-consent-module-eu-cookie-legislation">due to EU cookie regulations</a>, so we&#8217;ve built in native cookie consent functionality that will stand up to the strictest interpretations of the <abbr title="General Data Protection Regulation">GDPR</abbr> on cookies.</p>
+
+<p>If you enable the cookie consent requirement in the <a href="https://docs.expressionengine.com/v4/cp/settings/security-privacy.html#require-user-consent-to-set-cookies">cookie settings</a>, only <strong>strictly necessary cookies</strong> will be set natively without first obtaining explicit prior consent.  Native ExpressionEngine cookies are <a href="https://docs.expressionengine.com/v4/general/cookies.html">well documented</a>, and necessary cookies do not contain any Personally Identifiable Information (<abbr title="Personally Identifiable Information">PII</abbr>).</p>
+
+<p>Consent to set non-necessary cookies can be managed via the Consent Manager, just like any other consent request.  Third party add-ons can register cookies they set as well. Any non-necessary cookie that is set via internal ExpressionEngine methods will require user consent prior to being set.</p>
+
+<h2>Member Anonymization</h2>
+
+<p>In addition to making certain users know what data a site is collecting and requiring permission for any <abbr title="Personally Identifiable Information">PII</abbr> data, the <abbr title="General Data Protection Regulation">GDPR</abbr> requires that users be able to remove their personal data at will.  In many cases, this is simply a matter of deleting the member, which is already an option. But there are times when a record needs to be maintained, such as purchase records.</p>
+
+<p>If deleting all traces of a member isn&#8217;t viable, version 4.3 allows you to &#8216;Anonymize&#8217; an existing user, wiping out all <abbr title="Personally Identifiable Information">PII</abbr> data but still maintaining the non-identifiable elements for the record.  To anonymize a member&#8217;s record, visit the Member&#8217;s profile in the control panel, and click &#8220;Anonymize Member Record&#8221;.</p>
+
+<p>Third party developers can sanitize any data they have stored as well via the new extension hooks.</p>
+
+<h2>Extension Hooks You Say?</h2>
+
+<p>Yes, one goal in v4.3 is to make it as easy as possible for third party developers to make their add-ons <abbr title="General Data Protection Regulation">GDPR</abbr> friendly.</p>
+
+<p>The add-on has its own cookies?  Put them in <a href="https://docs.expressionengine.com/v4/development/addon_setup_php_file.html">addon.addon.setup.php file</a>. Need to collect personal data? Add a few more lines to <code>addon.setup.php</code>.  The native <a href="https://docs.expressionengine.com/v4/add-ons/consent/index.html">Consent module</a> will handle users granting and denying consent for all registered consent requests, both first and third party.</p>
+
+<p>If your add-on needs to check those permissions before performing an action, the <a href="https://docs.expressionengine.com/v4/development/services/consent.html">Consent service</a> makes it easy. And the new <a href="https://docs.expressionengine.com/v4/development/extension_hooks/model/member/index.html#member-anonymize">member_anonymization hook</a> lets you know if you need to nuke any <abbr title="Personally Identifiable Information">PII</abbr> your add-on stores!</p>
+
+<h2>Breach Notification</h2>
+
+<p>Continuing the focus on transparency, the <abbr title="General Data Protection Regulation">GDPR</abbr> details specific requirements concerning the notification of the subjects of a data breach. The new <a href="https://docs.expressionengine.com/v4//cp/utilities/mass-notification-export.html">Mass Notification Export</a> utility will output both a full and a validated CSV of member email addresses. That makes it fast and easy to export to a third-party validation and mass notification service to make sure your emails are delivered and your domain doesn&#8217;t get blacklisted for spam. It&#8217;s one less thing to worry about in the unlikely event data is compromised.</p>
+
+<h2>Don&#8217;t care about the <abbr title="General Data Protection Regulation">GDPR</abbr>?</h2>
+
+<p>Totally unaffected by the <abbr title="General Data Protection Regulation">GDPR</abbr>? Celebrate your good fortune by checking out the new filters on the entry manager. Filter by author or set parameters on where to search while laughing at the rest of us as we try to figure out what counts as &#8216;Personally Identifying Information&#8217;.</p>
+";s:7:"attribs";a:0:{}s:8:"xml_base";s:0:"";s:17:"xml_base_explicit";b:0;s:8:"xml_lang";s:2:"en";}}}}}}}}}}}}s:4:"type";i:512;s:7:"headers";a:10:{s:4:"date";s:29:"Fri, 25 Jan 2019 05:34:22 GMT";s:6:"server";s:6:"Apache";s:10:"set-cookie";s:677:"exp_last_visit=1233034462; expires=Sat, 25-Jan-2020 05:34:22 GMT; Max-Age=31536000; path=/; domain=.expressionengine.com; secure; HttpOnly, exp_last_activity=1548394462; expires=Sat, 25-Jan-2020 05:34:22 GMT; Max-Age=31536000; path=/; domain=.expressionengine.com; secure; HttpOnly, exp_csrf_token=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; domain=.expressionengine.com; secure; HttpOnly, exp_csrf_token=ad53569e4938eb91425a149da1ab3e63c60d8112; expires=Fri, 25-Jan-2019 07:34:22 GMT; Max-Age=7200; path=/; domain=.expressionengine.com; secure; HttpOnly, PHPSESSID=4e002e8abc6c4a7c9e3f2015b17cb0db; path=/; domain=.expressionengine.com; secure; HttpOnly";s:15:"x-frame-options";s:10:"SAMEORIGIN";s:7:"expires";s:29:"Tue, 22 Jan 2019 22:03:44 GMT";s:13:"last-modified";s:29:"Tue, 22 Jan 2019 21:03:44 GMT";s:13:"cache-control";s:62:"no-store, no-cache, must-revalidate, post-check=0, pre-check=0";s:6:"pragma";s:8:"no-cache";s:25:"strict-transport-security";s:34:"max-age=7776000; includeSubDomains";s:12:"content-type";s:23:"text/xml; charset=utf-8";}s:5:"build";s:14:"20190125053406";}}

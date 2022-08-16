@@ -1,0 +1,53 @@
+/*----------------------------------
+	misc field add
+----------------------------------*/
+#freeform-entry-filters
+{
+	padding: 					0  0 10px 0;
+
+	b {
+		font-weight: 			bold;
+		margin-bottom:			10px;
+		display: 				block;
+	}
+
+	> input[type="text"],
+	.filter_row > input[type="text"],
+	form > input[type="text"] {
+		width: 					200px;
+		margin-right: 			8px;
+		margin-top: 			1px;
+		padding: 				4px;
+		height: 				24px;
+	}
+
+	> select,
+	.filter_row > select
+	{
+		width: 					200px;
+		height:					27px;
+	}
+
+	.btn {
+		height:					25px;
+		padding:				5px 8px 6px;
+	}
+
+	> input[type="text"].datepicker,
+	.filter_row > input[type="text"].datepicker{
+		width: 					100px;
+		background-position: 	96% 3px;
+		background-repeat: 		no-repeat;
+	}
+
+	.filter_row {
+		margin-bottom:			10px;
+
+		> * {
+			margin-right:			8px;
+			float:				left;
+		}
+	}
+}
+
+//END fieldset.search_fieldset

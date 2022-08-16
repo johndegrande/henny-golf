@@ -1,0 +1,32 @@
+.relate-actions {
+  display: none !important;
+}
+
+.choice i {
+  display:none !important;
+}
+
+.relate-wrap h4 {
+  margin-bottom: 7px;
+}
+
+#continue {
+  margin-left: 10px;
+}
+
+.relate-wrap.last .scroll-wrap.ui-sortable {
+  > label.choice {
+    position: relative;
+    padding: 9px 10px 9px 40px;
+
+    > span.relate-reorder.ui-sortable-handle {
+      position: absolute;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      margin: 0;
+
+      float: none;
+    }
+  }
+}
